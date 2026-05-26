@@ -1,0 +1,158 @@
+{
+  "dates": [
+    "2026-05-26"
+  ],
+  "daily_data": {
+    "2026-05-26": [
+      {
+        "id": 1,
+        "date": "2026-05-26",
+        "region": "global",
+        "rank": 1,
+        "song_name": "Janice STFU",
+        "artist_name": "Drake",
+        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
+        "apple_music_url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+        "youtube_video_id": "SD4yRDY9mek",
+        "youtube_search_query": "Drake Janice STFU official music video",
+        "genres": "Hip-Hop/Rap, Music",
+        "created_at": "2026-05-26 07:37:03"
+      },
+      {
+        "id": 2,
+        "date": "2026-05-26",
+        "region": "global",
+        "rank": 2,
+        "song_name": "Shabang",
+        "artist_name": "Drake",
+        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
+        "apple_music_url": "https://music.apple.com/us/album/shabang/6769568449?i=6769568598",
+        "youtube_video_id": "MoR47PedfaU",
+        "youtube_search_query": "Drake Shabang official music video",
+        "genres": "Hip-Hop/Rap, Music",
+        "created_at": "2026-05-26 07:37:04"
+      },
+      {
+        "id": 3,
+        "date": "2026-05-26",
+        "region": "global",
+        "rank": 3,
+        "song_name": "Ran To Atlanta",
+        "artist_name": "Drake, Future & Molly Santana",
+        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
+        "apple_music_url": "https://music.apple.com/us/album/ran-to-atlanta/6769568449?i=6769568597",
+        "youtube_video_id": "ipOSrQNrp1U",
+        "youtube_search_query": "Drake, Future & Molly Santana Ran To Atlanta official music video",
+        "genres": "Hip-Hop/Rap, Music",
+        "created_at": "2026-05-26 07:37:05"
+      },
+      {
+        "id": 4,
+        "date": "2026-05-26",
+        "region": "global",
+        "rank": 4,
+        "song_name": "Whisper My Name",
+        "artist_name": "Drake",
+        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
+        "apple_music_url": "https://music.apple.com/us/album/whisper-my-name/6769568449?i=6769568595",
+        "youtube_video_id": "YhUqxWR4mnE",
+        "youtube_search_query": "Drake Whisper My Name official music video",
+        "genres": "Hip-Hop/Rap, Music",
+        "created_at": "2026-05-26 07:37:07"
+      },
+      {
+        "id": 5,
+        "date": "2026-05-26",
+        "region": "global",
+        "rank": 5,
+        "song_name": "National Treasures",
+        "artist_name": "Drake",
+        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
+        "apple_music_url": "https://music.apple.com/us/album/national-treasures/6769568449?i=6769568603",
+        "youtube_video_id": "JffHTWti1es",
+        "youtube_search_query": "Drake National Treasures official music video",
+        "genres": "Hip-Hop/Rap, Music",
+        "created_at": "2026-05-26 07:37:08"
+      }
+    ]
+  },
+  "tutorials": [
+    {
+      "id": 6,
+      "category": "\ud83c\udf0a Vibrato & Vocal Control",
+      "title": "How to Develop Natural Vibrato",
+      "youtube_video_id": "JNLaFkUmCts",
+      "description": "Stop forcing vibrato \u2014 learn to let it happen naturally with proper breath support.",
+      "added_date": "2026-05-26 07:34:00"
+    },
+    {
+      "id": 7,
+      "category": "\ud83c\udf0a Vibrato & Vocal Control",
+      "title": "Enka-style Vibrato Technique (\u6f14\u6b4c\u306e\u30d3\u30d6\u30e9\u30fc\u30c8)",
+      "youtube_video_id": "N_L0D6S4QJM",
+      "description": "Japanese enka vibrato \u2014 long, controlled oscillation. Essential for \u7f8e\u7a7a\u3072\u3070\u308a style.",
+      "added_date": "2026-05-26 07:34:00"
+    },
+    {
+      "id": 4,
+      "category": "\ud83c\udfb5 Mixed Voice (\u30df\u30c3\u30af\u30b9\u30dc\u30a4\u30b9)",
+      "title": "Mixed Voice Explained \u2014 Connect Chest & Head Voice",
+      "youtube_video_id": "wVJiOjtO5lg",
+      "description": "The essential technique for smooth transitions between registers.",
+      "added_date": "2026-05-26 07:34:00"
+    },
+    {
+      "id": 5,
+      "category": "\ud83c\udfb5 Mixed Voice (\u30df\u30c3\u30af\u30b9\u30dc\u30a4\u30b9)",
+      "title": "Daily Mixed Voice Warmup Routine",
+      "youtube_video_id": "JgMJJvEDnDU",
+      "description": "15-minute daily routine to build mixed voice strength and consistency.",
+      "added_date": "2026-05-26 07:34:00"
+    },
+    {
+      "id": 9,
+      "category": "\ud83d\udca8 Breath Support Fundamentals",
+      "title": "Diaphragmatic Breathing for Singers",
+      "youtube_video_id": "k_-Ww9_uk9o",
+      "description": "Master the foundation of all great singing \u2014 proper breath support.",
+      "added_date": "2026-05-26 07:34:00"
+    },
+    {
+      "id": 8,
+      "category": "\ud83d\udd0a Belting & Power Vocals",
+      "title": "Safe Belting Technique \u2014 Power Without Strain",
+      "youtube_video_id": "I5EbwB6nBns",
+      "description": "Learn to belt without hurting your voice. Proper breath support and placement.",
+      "added_date": "2026-05-26 07:34:00"
+    },
+    {
+      "id": 1,
+      "category": "\ud83e\udebd Whistle Voice (\u30db\u30a4\u30c3\u30b9\u30eb\u30dc\u30a4\u30b9)",
+      "title": "How to Find Your Whistle Voice \u2014 Beginner's Guide",
+      "youtube_video_id": "b2NZldAdT1I",
+      "description": "Step-by-step whistle register discovery. Start with sirens and build upward.",
+      "added_date": "2026-05-26 07:34:00"
+    },
+    {
+      "id": 2,
+      "category": "\ud83e\udebd Whistle Voice (\u30db\u30a4\u30c3\u30b9\u30eb\u30dc\u30a4\u30b9)",
+      "title": "Whistle Voice Exercises \u2014 Build Range & Control",
+      "youtube_video_id": "FmnJe2evL_M",
+      "description": "Daily exercises to strengthen your whistle register. Mariah Carey-style technique.",
+      "added_date": "2026-05-26 07:34:00"
+    },
+    {
+      "id": 3,
+      "category": "\ud83e\udebd Whistle Voice (\u30db\u30a4\u30c3\u30b9\u30eb\u30dc\u30a4\u30b9)",
+      "title": "Mariah Carey Whistle Register Analysis",
+      "youtube_video_id": "q8LAVqGn4Qo",
+      "description": "Break down the Queen of Whistle Voice's technique. Learn from the master.",
+      "added_date": "2026-05-26 07:34:00"
+    }
+  ],
+  "stats": {
+    "total_days": 1,
+    "total_songs": 30
+  },
+  "updated": "2026-05-26 15:38 SGT"
+}

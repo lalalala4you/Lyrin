@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎵 Syncroony — Daily Music Trends</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #0a0a1a 0%, #1a0a2e 50%, #0d1b2a 100%);
+            color: #e0e0e0;
+            min-height: 100vh;
+        }
+        .container { max-width: 1000px; margin: 0 auto; padding: 20px; }
+        
+        header {
+            text-align: center;
+            padding: 60px 20px 40px;
+            position: relative;
+            overflow: hidden;
+        }
+        header::before {
+            content: '';
+            position: absolute;
+            top: -50%; left: -50%;
+            width: 200%; height: 200%;
+            background: radial-gradient(circle at 30% 50%, rgba(255,107,107,0.15) 0%, transparent 50%),
+                        radial-gradient(circle at 70% 50%, rgba(77,150,255,0.15) 0%, transparent 50%);
+            animation: rotate 20s linear infinite;
+        }
+        @keyframes rotate { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+        
+        header h1 {
+            font-size: 3em;
+            background: linear-gradient(135deg, #ff6b6b, #ffd93d, #6bcb77, #4d96ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            position: relative;
+            margin-bottom: 10px;
+        }
+        header .subtitle {
+            color: #888;
+            font-size: 1.1em;
+            position: relative;
+        }
+        
+        .stats-bar {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            padding: 20px;
+            background: rgba(255,255,255,0.03);
+            border-radius: 16px;
+            margin-bottom: 40px;
+            border: 1px solid rgba(255,255,255,0.06);
+        }
+        .stat { text-align: center; }
+        .stat .num { font-size: 2em; font-weight: 800; color: #ffd93d; }
+        .stat .label { font-size: 0.85em; color: #888; margin-top: 4px; }
+        
+        .day-tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .day-tab {
+            padding: 12px 28px;
+            border: 1px solid rgba(255,255,255,0.1);
+            background: rgba(255,255,255,0.03);
+            color: #aaa;
+            border-radius: 30px;
+            cursor: pointer;
+            font-size: 0.95em;
+            transition: all 0.3s;
+        }
+        .day-tab:hover { border-color: rgba(255,255,255,0.3); color: #fff; }
+        .day-tab.active {
+            background: linear-gradient(135deg, rgba(255,107,107,0.3), rgba(77,150,255,0.3));
+            border-color: rgba(255,107,107,0.5);
+            color: #fff;
+            font-weight: 600;
+        }
+        
+        .day-content { display: none; }
+        .day-content.active { display: block; }
+        
+        .song-card {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 16px;
+            padding: 20px;
+            margin-bottom: 20px;
+            transition: all 0.3s;
+            display: grid;
+            grid-template-columns: 60px 1fr 400px;
+            gap: 20px;
+            align-items: center;
+        }
+        .song-card:hover {
+            border-color: rgba(255,255,255,0.15);
+            background: rgba(255,255,255,0.05);
+            transform: translateX(4px);
+        }
+        .song-rank {
+            font-size: 1.2em;
+            font-weight: 700;
+            color: #ffd93d;
+            text-align: center;
+        }
+        .song-rank span { font-size: 0.7em; color: #888; display: block; }
+        .song-info {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+        .album-art img {
+            width: 80px;
+            height: 80px;
+            border-radius: 12px;
+            object-fit: cover;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+        }
+        .song-details h3 {
+            font-size: 1.1em;
+            color: #fff;
+            margin-bottom: 4px;
+        }
+        .song-details .artist {
+            color: #aaa;
+            font-size: 0.9em;
+        }
+        .song-details .genres {
+            color: #666;
+            font-size: 0.8em;
+            margin-top: 4px;
+        }
+        
+        .video-wrapper {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            border-radius: 12px;
+            overflow: hidden;
+            background: #000;
+        }
+        .video-wrapper iframe {
+            position: absolute;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            border: none;
+        }
+        .video-wrapper.no-video {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: auto;
+            padding: 0;
+        }
+        .search-link {
+            display: block;
+            text-align: center;
+            color: #4d96ff;
+            text-decoration: none;
+            padding: 30px;
+            font-size: 1.1em;
+        }
+        .search-link:hover { color: #ffd93d; }
+        .search-link small { display: block; color: #888; margin-top: 6px; font-size: 0.8em; }
+        
+        .section-title {
+            font-size: 2em;
+            text-align: center;
+            margin: 60px 0 30px;
+            color: #fff;
+        }
+        .section-title span { 
+            background: linear-gradient(135deg, #6bcb77, #4d96ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .tutorial-category h3 {
+            font-size: 1.3em;
+            color: #ffd93d;
+            margin: 30px 0 16px;
+            padding-left: 10px;
+            border-left: 4px solid #ffd93d;
+        }
+        .tutorial-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        .tutorial-card {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 16px;
+            overflow: hidden;
+            transition: all 0.3s;
+        }
+        .tutorial-card:hover {
+            border-color: rgba(255,255,255,0.2);
+            transform: translateY(-4px);
+        }
+        .tutorial-info {
+            padding: 16px;
+        }
+        .tutorial-info h4 {
+            color: #fff;
+            font-size: 1em;
+            margin-bottom: 6px;
+        }
+        .tutorial-info p {
+            color: #888;
+            font-size: 0.85em;
+            line-height: 1.5;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 40px;
+            color: #555;
+            font-size: 0.85em;
+            margin-top: 60px;
+            border-top: 1px solid rgba(255,255,255,0.05);
+        }
+        footer a { color: #4d96ff; text-decoration: none; }
+        
+        @media (max-width: 768px) {
+            .song-card {
+                grid-template-columns: 40px 1fr;
+            }
+            .song-card .video-wrapper {
+                grid-column: 1 / -1;
+                padding-bottom: 56.25%;
+                height: 0;
+                position: relative;
+            }
+            header h1 { font-size: 2em; }
+            .stats-bar { gap: 20px; }
+            .stat .num { font-size: 1.5em; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎵 Syncroony</h1>
+            <p class="subtitle">Daily Music Trends · Top 5 Hits · Singing Tutorials</p>
+        </header>
+        
+        <div class="stats-bar">
+            <div class="stat"><div class="num">1</div><div class="label">Days Tracked</div></div>
+            <div class="stat"><div class="num">30</div><div class="label">Unique Songs</div></div>
+            <div class="stat"><div class="num">🌍</div><div class="label">Global + JP + SG</div></div>
+        </div>
+        
+        <h2 style="text-align:center;color:#fff;margin-bottom:20px;">📊 Top 5 Daily Hits</h2>
+        <div class="day-tabs"><button class="day-tab active" onclick="switchDay('2026-05-26')">May 26, 2026</button>
+</div>
+        <div class="day-content active" id="day-2026-05-26">
+            <div class="song-card">
+                <div class="song-rank">🥇 <span>#1</span></div>
+                <div class="song-info">
+                    <div class="album-art">
+                        <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg" alt="Janice STFU" 
+                             onerror="this.style.display='none'" loading="lazy">
+                    </div>
+                    <div class="song-details">
+                        <h3>Janice STFU</h3>
+                        <p class="artist">Drake</p>
+                        <p class="genres">Hip-Hop/Rap, Music</p>
+                    </div>
+                </div>
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/SD4yRDY9mek" 
+                            frameborder="0" allowfullscreen 
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                    </iframe>
+                </div>
+            </div>
+            <div class="song-card">
+                <div class="song-rank">🥈 <span>#2</span></div>
+                <div class="song-info">
+                    <div class="album-art">
+                        <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg" alt="Shabang" 
+                             onerror="this.style.display='none'" loading="lazy">
+                    </div>
+                    <div class="song-details">
+                        <h3>Shabang</h3>
+                        <p class="artist">Drake</p>
+                        <p class="genres">Hip-Hop/Rap, Music</p>
+                    </div>
+                </div>
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/MoR47PedfaU" 
+                            frameborder="0" allowfullscreen 
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                    </iframe>
+                </div>
+            </div>
+            <div class="song-card">
+                <div class="song-rank">🥉 <span>#3</span></div>
+                <div class="song-info">
+                    <div class="album-art">
+                        <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg" alt="Ran To Atlanta" 
+                             onerror="this.style.display='none'" loading="lazy">
+                    </div>
+                    <div class="song-details">
+                        <h3>Ran To Atlanta</h3>
+                        <p class="artist">Drake, Future & Molly Santana</p>
+                        <p class="genres">Hip-Hop/Rap, Music</p>
+                    </div>
+                </div>
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/ipOSrQNrp1U" 
+                            frameborder="0" allowfullscreen 
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                    </iframe>
+                </div>
+            </div>
+            <div class="song-card">
+                <div class="song-rank">4️⃣ <span>#4</span></div>
+                <div class="song-info">
+                    <div class="album-art">
+                        <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg" alt="Whisper My Name" 
+                             onerror="this.style.display='none'" loading="lazy">
+                    </div>
+                    <div class="song-details">
+                        <h3>Whisper My Name</h3>
+                        <p class="artist">Drake</p>
+                        <p class="genres">Hip-Hop/Rap, Music</p>
+                    </div>
+                </div>
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/YhUqxWR4mnE" 
+                            frameborder="0" allowfullscreen 
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                    </iframe>
+                </div>
+            </div>
+            <div class="song-card">
+                <div class="song-rank">5️⃣ <span>#5</span></div>
+                <div class="song-info">
+                    <div class="album-art">
+                        <img src="https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg" alt="National Treasures" 
+                             onerror="this.style.display='none'" loading="lazy">
+                    </div>
+                    <div class="song-details">
+                        <h3>National Treasures</h3>
+                        <p class="artist">Drake</p>
+                        <p class="genres">Hip-Hop/Rap, Music</p>
+                    </div>
+                </div>
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/JffHTWti1es" 
+                            frameborder="0" allowfullscreen 
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                    </iframe>
+                </div>
+            </div></div>
+        
+        <h2 class="section-title">🎤 <span>Singing Tutorials</span></h2>
+        <div class="tutorial-category"><h3 id="🌊-vibrato-&-vocal-control">🌊 Vibrato & Vocal Control</h3><div class="tutorial-grid">
+            <div class="tutorial-card">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/JNLaFkUmCts" 
+                            frameborder="0" allowfullscreen
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                    </iframe>
+                </div>
+                <div class="tutorial-info">
+                    <h4>How to Develop Natural Vibrato</h4>
+                    <p>Stop forcing vibrato — learn to let it happen naturally with proper breath support.</p>
+                </div>
+            </div>
+            <div class="tutorial-card">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/N_L0D6S4QJM" 
+                            frameborder="0" allowfullscreen
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                    </iframe>
+                </div>
+                <div class="tutorial-info">
+                    <h4>Enka-style Vibrato Technique (演歌のビブラート)</h4>
+                    <p>Japanese enka vibrato — long, controlled oscillation. Essential for 美空ひばり style.</p>
+                </div>
+            </div></div></div><div class="tutorial-category"><h3 id="🎵-mixed-voice-(ミックスボイス)">🎵 Mixed Voice (ミックスボイス)</h3><div class="tutorial-grid">
+            <div class="tutorial-card">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/wVJiOjtO5lg" 
+                            frameborder="0" allowfullscreen
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                    </iframe>
+                </div>
+                <div class="tutorial-info">
+                    <h4>Mixed Voice Explained — Connect Chest & Head Voice</h4>
+                    <p>The essential technique for smooth transitions between registers.</p>
+                </div>
+            </div>
+            <div class="tutorial-card">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/JgMJJvEDnDU" 
+                            frameborder="0" allowfullscreen
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                    </iframe>
+                </div>
+                <div class="tutorial-info">
+                    <h4>Daily Mixed Voice Warmup Routine</h4>
+                    <p>15-minute daily routine to build mixed voice strength and consistency.</p>
+                </div>
+            </div></div></div><div class="tutorial-category"><h3 id="💨-breath-support-fundamentals">💨 Breath Support Fundamentals</h3><div class="tutorial-grid">
+            <div class="tutorial-card">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/k_-Ww9_uk9o" 
+                            frameborder="0" allowfullscreen
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                    </iframe>
+                </div>
+                <div class="tutorial-info">
+                    <h4>Diaphragmatic Breathing for Singers</h4>
+                    <p>Master the foundation of all great singing — proper breath support.</p>
+                </div>
+            </div></div></div><div class="tutorial-category"><h3 id="🔊-belting-&-power-vocals">🔊 Belting & Power Vocals</h3><div class="tutorial-grid">
+            <div class="tutorial-card">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/I5EbwB6nBns" 
+                            frameborder="0" allowfullscreen
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                    </iframe>
+                </div>
+                <div class="tutorial-info">
+                    <h4>Safe Belting Technique — Power Without Strain</h4>
+                    <p>Learn to belt without hurting your voice. Proper breath support and placement.</p>
+                </div>
+            </div></div></div><div class="tutorial-category"><h3 id="🪽-whistle-voice-(ホイッスルボイス)">🪽 Whistle Voice (ホイッスルボイス)</h3><div class="tutorial-grid">
+            <div class="tutorial-card">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/b2NZldAdT1I" 
+                            frameborder="0" allowfullscreen
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                    </iframe>
+                </div>
+                <div class="tutorial-info">
+                    <h4>How to Find Your Whistle Voice — Beginner's Guide</h4>
+                    <p>Step-by-step whistle register discovery. Start with sirens and build upward.</p>
+                </div>
+            </div>
+            <div class="tutorial-card">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/FmnJe2evL_M" 
+                            frameborder="0" allowfullscreen
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                    </iframe>
+                </div>
+                <div class="tutorial-info">
+                    <h4>Whistle Voice Exercises — Build Range & Control</h4>
+                    <p>Daily exercises to strengthen your whistle register. Mariah Carey-style technique.</p>
+                </div>
+            </div>
+            <div class="tutorial-card">
+                <div class="video-wrapper">
+                    <iframe src="https://www.youtube.com/embed/q8LAVqGn4Qo" 
+                            frameborder="0" allowfullscreen
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                    </iframe>
+                </div>
+                <div class="tutorial-info">
+                    <h4>Mariah Carey Whistle Register Analysis</h4>
+                    <p>Break down the Queen of Whistle Voice's technique. Learn from the master.</p>
+                </div>
+            </div></div></div>
+        
+        <footer>
+            <p>Powered by <a href="https://music.apple.com" target="_blank">Apple Music</a> & <a href="https://youtube.com" target="_blank">YouTube</a></p>
+            <p>Curated by Rinちゃん ✨ · Updated daily · <span id="update-time">2026-05-26 15:38 SGT</span></p>
+        </footer>
+    </div>
+    
+    <script>
+        function switchDay(date) {
+            document.querySelectorAll('.day-tab').forEach(t => t.classList.remove('active'));
+            document.querySelectorAll('.day-content').forEach(c => c.classList.remove('active'));
+            document.querySelector(`[onclick*="${date}"]`).classList.add('active');
+            document.getElementById(`day-${date}`).classList.add('active');
+        }
+    </script>
+</body>
+</html>
