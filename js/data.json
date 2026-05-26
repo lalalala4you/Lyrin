@@ -3,11 +3,303 @@
     "2026-05-26"
   ],
   "daily_data": {
+    "2026-05-26": {
+      "global": [
+        {
+          "id": 41,
+          "date": "2026-05-26",
+          "region": "global",
+          "rank": 1,
+          "song_name": "Janice STFU",
+          "artist_name": "Drake",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+          "youtube_video_id": "SD4yRDY9mek",
+          "youtube_search_query": "Drake Janice STFU official music video",
+          "genres": "Hip-Hop/Rap, Music",
+          "created_at": "2026-05-26 10:21:30"
+        },
+        {
+          "id": 42,
+          "date": "2026-05-26",
+          "region": "global",
+          "rank": 2,
+          "song_name": "Shabang",
+          "artist_name": "Drake",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/us/album/shabang/6769568449?i=6769568598",
+          "youtube_video_id": "MoR47PedfaU",
+          "youtube_search_query": "Drake Shabang official music video",
+          "genres": "Hip-Hop/Rap, Music",
+          "created_at": "2026-05-26 10:21:31"
+        },
+        {
+          "id": 43,
+          "date": "2026-05-26",
+          "region": "global",
+          "rank": 3,
+          "song_name": "Ran To Atlanta",
+          "artist_name": "Drake, Future & Molly Santana",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/us/album/ran-to-atlanta/6769568449?i=6769568597",
+          "youtube_video_id": "ipOSrQNrp1U",
+          "youtube_search_query": "Drake, Future & Molly Santana Ran To Atlanta official music video",
+          "genres": "Hip-Hop/Rap, Music",
+          "created_at": "2026-05-26 10:21:32"
+        },
+        {
+          "id": 44,
+          "date": "2026-05-26",
+          "region": "global",
+          "rank": 4,
+          "song_name": "Whisper My Name",
+          "artist_name": "Drake",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/us/album/whisper-my-name/6769568449?i=6769568595",
+          "youtube_video_id": "YhUqxWR4mnE",
+          "youtube_search_query": "Drake Whisper My Name official music video",
+          "genres": "Hip-Hop/Rap, Music",
+          "created_at": "2026-05-26 10:21:33"
+        },
+        {
+          "id": 45,
+          "date": "2026-05-26",
+          "region": "global",
+          "rank": 5,
+          "song_name": "National Treasures",
+          "artist_name": "Drake",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/us/album/national-treasures/6769568449?i=6769568603",
+          "youtube_video_id": "JffHTWti1es",
+          "youtube_search_query": "Drake National Treasures official music video",
+          "genres": "Hip-Hop/Rap, Music",
+          "created_at": "2026-05-26 10:21:35"
+        }
+      ],
+      "singapore": [
+        {
+          "id": 51,
+          "date": "2026-05-26",
+          "region": "singapore",
+          "rank": 1,
+          "song_name": "BOOMPALA",
+          "artist_name": "LE SSERAFIM",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/0c/98/b80c980c-52c6-a180-ff3e-2afaaab75fdd/823375107286_Cover.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/sg/album/boompala/1894802719?i=1894802726",
+          "youtube_video_id": "V1Lr-_AxeR8",
+          "youtube_search_query": "LE SSERAFIM BOOMPALA official music video",
+          "genres": "K-Pop, Music, Pop",
+          "created_at": "2026-05-26 10:21:44"
+        },
+        {
+          "id": 52,
+          "date": "2026-05-26",
+          "region": "singapore",
+          "rank": 2,
+          "song_name": "drop dead",
+          "artist_name": "Olivia Rodrigo",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/sg/album/drop-dead/1889992111?i=1889992113",
+          "youtube_video_id": "78wrful9cVU",
+          "youtube_search_query": "Olivia Rodrigo drop dead official music video",
+          "genres": "Pop, Music",
+          "created_at": "2026-05-26 10:21:45"
+        },
+        {
+          "id": 53,
+          "date": "2026-05-26",
+          "region": "singapore",
+          "rank": 3,
+          "song_name": "the cure",
+          "artist_name": "Olivia Rodrigo",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/sg/album/the-cure/1889992111?i=1889992123",
+          "youtube_video_id": "B402rKl4bUg",
+          "youtube_search_query": "Olivia Rodrigo the cure official music video",
+          "genres": "Pop, Music",
+          "created_at": "2026-05-26 10:21:47"
+        },
+        {
+          "id": 54,
+          "date": "2026-05-26",
+          "region": "singapore",
+          "rank": 4,
+          "song_name": "SWIM",
+          "artist_name": "BTS",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/83/cb/bc/83cbbc49-cfad-aeaf-3292-0dd428290d81/198704942365_Cover.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/sg/album/swim/1868862375?i=1868862384",
+          "youtube_video_id": "b4iVv91Z6lY",
+          "youtube_search_query": "BTS SWIM official music video",
+          "genres": "Pop, Music, K-Pop",
+          "created_at": "2026-05-26 10:21:48"
+        },
+        {
+          "id": 55,
+          "date": "2026-05-26",
+          "region": "singapore",
+          "rank": 5,
+          "song_name": "Beauty and a Beat (feat. Nicki Minaj)",
+          "artist_name": "Justin Bieber",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/73/08/1a/73081a96-0f7c-b5f8-2757-5c17fb714323/12UMGIM31899.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/sg/album/beauty-and-a-beat-feat-nicki-minaj/1440650852?i=1440650961",
+          "youtube_video_id": "b6xKoOb0LDo",
+          "youtube_search_query": "Justin Bieber Beauty and a Beat (feat. Nicki Minaj) official music video",
+          "genres": "Pop, Music, Rock, Dance",
+          "created_at": "2026-05-26 10:21:50"
+        }
+      ],
+      "spain": [
+        {
+          "id": 61,
+          "date": "2026-05-26",
+          "region": "spain",
+          "rank": 1,
+          "song_name": "LA GRACIOSA",
+          "artist_name": "Quevedo & Elvis Crespo",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/2c/a4/e62ca4e7-d600-3965-5f66-77738458fc59/8718521179540.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/es/album/la-graciosa/1894270804?i=1894270806",
+          "youtube_video_id": "LZPLBSRnxSY",
+          "youtube_search_query": "Quevedo & Elvis Crespo LA GRACIOSA official music video",
+          "genres": "M\u00fasica, M\u00fasica latina",
+          "created_at": "2026-05-26 10:21:59"
+        },
+        {
+          "id": 62,
+          "date": "2026-05-26",
+          "region": "spain",
+          "rank": 2,
+          "song_name": "AL GOLPITO",
+          "artist_name": "Quevedo & Nueva L\u00ednea",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/es/album/al-golpito/1894271358?i=1894271858",
+          "youtube_video_id": "-jm7ZjTqNz0",
+          "youtube_search_query": "Quevedo & Nueva L\u00ednea AL GOLPITO official music video",
+          "genres": "M\u00fasica, M\u00fasica latina",
+          "created_at": "2026-05-26 10:22:00"
+        },
+        {
+          "id": 63,
+          "date": "2026-05-26",
+          "region": "spain",
+          "rank": 3,
+          "song_name": "BAILE INoLVIDABLE",
+          "artist_name": "Bad Bunny",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/es/album/baile-inolvidable/1787022393?i=1787022842",
+          "youtube_video_id": "a1Femq4NPxs",
+          "youtube_search_query": "Bad Bunny BAILE INoLVIDABLE official music video",
+          "genres": "M\u00fasica latina, M\u00fasica",
+          "created_at": "2026-05-26 10:22:02"
+        },
+        {
+          "id": 64,
+          "date": "2026-05-26",
+          "region": "spain",
+          "rank": 4,
+          "song_name": "KOKO",
+          "artist_name": "Omar Courtz",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0b/13/d6/0b13d6d1-d5b9-03f4-a7b8-29f00faad00f/820200317964.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/es/album/koko/1877481995?i=1877482633",
+          "youtube_video_id": "slmRkI1xAqk",
+          "youtube_search_query": "Omar Courtz KOKO official music video",
+          "genres": "M\u00fasica, M\u00fasica latina",
+          "created_at": "2026-05-26 10:22:03"
+        },
+        {
+          "id": 65,
+          "date": "2026-05-26",
+          "region": "spain",
+          "rank": 5,
+          "song_name": "DtMF",
+          "artist_name": "Bad Bunny",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/90/5e/7e/905e7ed5-a8fa-a8f3-cd06-0028fdf3afaa/199066342442.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/es/album/dtmf/1787022393?i=1787023936",
+          "youtube_video_id": "v_Tgq5OUrmE",
+          "youtube_search_query": "Bad Bunny DtMF official music video",
+          "genres": "M\u00fasica latina, M\u00fasica",
+          "created_at": "2026-05-26 10:22:04"
+        }
+      ],
+      "japan": [
+        {
+          "id": 71,
+          "date": "2026-05-26",
+          "region": "japan",
+          "rank": 1,
+          "song_name": "\u591c\u306e\u8e0a\u308a\u5b50",
+          "artist_name": "\u30b5\u30ab\u30ca\u30af\u30b7\u30e7\u30f3",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/9b/bb/609bbb5d-96eb-ae16-f08a-81a3223deb24/VICL-63999.jpg/100x99bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AE%E8%B8%8A%E3%82%8A%E5%AD%90/604748196?i=604748203",
+          "youtube_video_id": "FxILquVHzUA",
+          "youtube_search_query": "\u30b5\u30ab\u30ca\u30af\u30b7\u30e7\u30f3 \u591c\u306e\u8e0a\u308a\u5b50 official music video",
+          "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-05-26 10:22:13"
+        },
+        {
+          "id": 72,
+          "date": "2026-05-26",
+          "region": "japan",
+          "rank": 2,
+          "song_name": "\u30e9\u30a4\u30e9\u30c3\u30af",
+          "artist_name": "Mrs. GREEN APPLE",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF/1739088465?i=1739088799",
+          "youtube_video_id": "QjrkrVmC-8M",
+          "youtube_search_query": "Mrs. GREEN APPLE \u30e9\u30a4\u30e9\u30c3\u30af official music video",
+          "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-05-26 10:22:15"
+        },
+        {
+          "id": 73,
+          "date": "2026-05-26",
+          "region": "japan",
+          "rank": 3,
+          "song_name": "\u597d\u304d\u3059\u304e\u3066\u6ec5!",
+          "artist_name": "M!LK",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%BB%85/1846753945?i=1846753946",
+          "youtube_video_id": "ZVUxJsPfoX8",
+          "youtube_search_query": "M!LK \u597d\u304d\u3059\u304e\u3066\u6ec5! official music video",
+          "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-05-26 10:22:17"
+        },
+        {
+          "id": 74,
+          "date": "2026-05-26",
+          "region": "japan",
+          "rank": 4,
+          "song_name": "\u7206\u88c2\u611b\u3057\u3066\u308b",
+          "artist_name": "M!LK",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/b1/53/45b153d5-e943-6cd9-620e-0a4c66b7525b/VEATP-45199.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/%E7%88%86%E8%A3%82%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B/1869537741?i=1869537742",
+          "youtube_video_id": "tpFDnOnOdSQ",
+          "youtube_search_query": "M!LK \u7206\u88c2\u611b\u3057\u3066\u308b official music video",
+          "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-05-26 10:22:19"
+        },
+        {
+          "id": 75,
+          "date": "2026-05-26",
+          "region": "japan",
+          "rank": 5,
+          "song_name": "IRIS OUT",
+          "artist_name": "\u7c73\u6d25\u7384\u5e2b",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f9/f1/e0f9f1f3-a088-b28d-6760-a28accabc705/4547366775181.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/iris-out/1837658528?i=1837658529",
+          "youtube_video_id": "LmZD-TU96q4",
+          "youtube_search_query": "\u7c73\u6d25\u7384\u5e2b IRIS OUT official music video",
+          "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-05-26 10:22:21"
+        }
+      ]
+    }
+  },
+  "regional": {
     "2026-05-26": [
       {
-        "id": 1,
+        "id": 31,
         "date": "2026-05-26",
-        "region": "global",
+        "region": "us",
         "rank": 1,
         "song_name": "Janice STFU",
         "artist_name": "Drake",
@@ -16,143 +308,119 @@
         "youtube_video_id": "SD4yRDY9mek",
         "youtube_search_query": "Drake Janice STFU official music video",
         "genres": "Hip-Hop/Rap, Music",
-        "created_at": "2026-05-26 07:37:03"
+        "created_at": "2026-05-26 07:37:45"
       },
       {
-        "id": 2,
+        "id": 51,
         "date": "2026-05-26",
-        "region": "global",
-        "rank": 2,
-        "song_name": "Shabang",
-        "artist_name": "Drake",
-        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
-        "apple_music_url": "https://music.apple.com/us/album/shabang/6769568449?i=6769568598",
-        "youtube_video_id": "MoR47PedfaU",
-        "youtube_search_query": "Drake Shabang official music video",
-        "genres": "Hip-Hop/Rap, Music",
-        "created_at": "2026-05-26 07:37:04"
+        "region": "singapore",
+        "rank": 1,
+        "song_name": "BOOMPALA",
+        "artist_name": "LE SSERAFIM",
+        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b8/0c/98/b80c980c-52c6-a180-ff3e-2afaaab75fdd/823375107286_Cover.jpg/600x600bb.jpg",
+        "apple_music_url": "https://music.apple.com/sg/album/boompala/1894802719?i=1894802726",
+        "youtube_video_id": "V1Lr-_AxeR8",
+        "youtube_search_query": "LE SSERAFIM BOOMPALA official music video",
+        "genres": "K-Pop, Music, Pop",
+        "created_at": "2026-05-26 10:21:44"
       },
       {
-        "id": 3,
+        "id": 61,
         "date": "2026-05-26",
-        "region": "global",
-        "rank": 3,
-        "song_name": "Ran To Atlanta",
-        "artist_name": "Drake, Future & Molly Santana",
-        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
-        "apple_music_url": "https://music.apple.com/us/album/ran-to-atlanta/6769568449?i=6769568597",
-        "youtube_video_id": "ipOSrQNrp1U",
-        "youtube_search_query": "Drake, Future & Molly Santana Ran To Atlanta official music video",
-        "genres": "Hip-Hop/Rap, Music",
-        "created_at": "2026-05-26 07:37:05"
+        "region": "spain",
+        "rank": 1,
+        "song_name": "LA GRACIOSA",
+        "artist_name": "Quevedo & Elvis Crespo",
+        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e6/2c/a4/e62ca4e7-d600-3965-5f66-77738458fc59/8718521179540.jpg/600x600bb.jpg",
+        "apple_music_url": "https://music.apple.com/es/album/la-graciosa/1894270804?i=1894270806",
+        "youtube_video_id": "LZPLBSRnxSY",
+        "youtube_search_query": "Quevedo & Elvis Crespo LA GRACIOSA official music video",
+        "genres": "M\u00fasica, M\u00fasica latina",
+        "created_at": "2026-05-26 10:21:59"
       },
       {
-        "id": 4,
+        "id": 71,
         "date": "2026-05-26",
-        "region": "global",
-        "rank": 4,
-        "song_name": "Whisper My Name",
-        "artist_name": "Drake",
-        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
-        "apple_music_url": "https://music.apple.com/us/album/whisper-my-name/6769568449?i=6769568595",
-        "youtube_video_id": "YhUqxWR4mnE",
-        "youtube_search_query": "Drake Whisper My Name official music video",
-        "genres": "Hip-Hop/Rap, Music",
-        "created_at": "2026-05-26 07:37:07"
-      },
-      {
-        "id": 5,
-        "date": "2026-05-26",
-        "region": "global",
-        "rank": 5,
-        "song_name": "National Treasures",
-        "artist_name": "Drake",
-        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
-        "apple_music_url": "https://music.apple.com/us/album/national-treasures/6769568449?i=6769568603",
-        "youtube_video_id": "JffHTWti1es",
-        "youtube_search_query": "Drake National Treasures official music video",
-        "genres": "Hip-Hop/Rap, Music",
-        "created_at": "2026-05-26 07:37:08"
+        "region": "japan",
+        "rank": 1,
+        "song_name": "\u591c\u306e\u8e0a\u308a\u5b50",
+        "artist_name": "\u30b5\u30ab\u30ca\u30af\u30b7\u30e7\u30f3",
+        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/60/9b/bb/609bbb5d-96eb-ae16-f08a-81a3223deb24/VICL-63999.jpg/100x99bb.jpg",
+        "apple_music_url": "https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AE%E8%B8%8A%E3%82%8A%E5%AD%90/604748196?i=604748203",
+        "youtube_video_id": "FxILquVHzUA",
+        "youtube_search_query": "\u30b5\u30ab\u30ca\u30af\u30b7\u30e7\u30f3 \u591c\u306e\u8e0a\u308a\u5b50 official music video",
+        "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+        "created_at": "2026-05-26 10:22:13"
       }
     ]
   },
   "tutorials": [
     {
-      "id": 6,
-      "category": "\ud83c\udf0a Vibrato & Vocal Control",
-      "title": "How to Develop Natural Vibrato",
-      "youtube_video_id": "JNLaFkUmCts",
-      "description": "Stop forcing vibrato \u2014 learn to let it happen naturally with proper breath support.",
-      "added_date": "2026-05-26 07:34:00"
+      "id": 14,
+      "category": "\ud83c\udf0a Vibrato & Control",
+      "title": "How to Sing with Vibrato Using a Straw",
+      "youtube_video_id": "PbnM2-GggXw",
+      "description": "Unique method to develop natural vibrato \u2014 all you need is a straw.",
+      "added_date": "2026-05-26 07:42:54"
     },
     {
-      "id": 7,
-      "category": "\ud83c\udf0a Vibrato & Vocal Control",
-      "title": "Enka-style Vibrato Technique (\u6f14\u6b4c\u306e\u30d3\u30d6\u30e9\u30fc\u30c8)",
-      "youtube_video_id": "N_L0D6S4QJM",
-      "description": "Japanese enka vibrato \u2014 long, controlled oscillation. Essential for \u7f8e\u7a7a\u3072\u3070\u308a style.",
-      "added_date": "2026-05-26 07:34:00"
+      "id": 12,
+      "category": "\ud83c\udfb5 Mixed Voice",
+      "title": "Connecting Chest and Head Voice \u2014 Tyler Wysong",
+      "youtube_video_id": "7i_B-VQaDr0",
+      "description": "Master the bridge between registers. Essential for smooth, strain-free singing.",
+      "added_date": "2026-05-26 07:42:54"
     },
     {
-      "id": 4,
-      "category": "\ud83c\udfb5 Mixed Voice (\u30df\u30c3\u30af\u30b9\u30dc\u30a4\u30b9)",
-      "title": "Mixed Voice Explained \u2014 Connect Chest & Head Voice",
-      "youtube_video_id": "wVJiOjtO5lg",
-      "description": "The essential technique for smooth transitions between registers.",
-      "added_date": "2026-05-26 07:34:00"
+      "id": 13,
+      "category": "\ud83c\udfb5 Mixed Voice",
+      "title": "Daily Mixed Voice Vocal Exercises for Singers",
+      "youtube_video_id": "POy09B_r-34",
+      "description": "Quick daily routine to strengthen your mixed voice coordination.",
+      "added_date": "2026-05-26 07:42:54"
     },
     {
-      "id": 5,
-      "category": "\ud83c\udfb5 Mixed Voice (\u30df\u30c3\u30af\u30b9\u30dc\u30a4\u30b9)",
-      "title": "Daily Mixed Voice Warmup Routine",
-      "youtube_video_id": "JgMJJvEDnDU",
-      "description": "15-minute daily routine to build mixed voice strength and consistency.",
-      "added_date": "2026-05-26 07:34:00"
+      "id": 17,
+      "category": "\ud83d\udca8 Breath Support",
+      "title": "SING From Your DIAPHRAGM in 59 Seconds!",
+      "youtube_video_id": "LlZzIlE1NLQ",
+      "description": "Quick, effective diaphragmatic breathing technique. The foundation of all great singing.",
+      "added_date": "2026-05-26 07:42:54"
     },
     {
-      "id": 9,
-      "category": "\ud83d\udca8 Breath Support Fundamentals",
-      "title": "Diaphragmatic Breathing for Singers",
-      "youtube_video_id": "k_-Ww9_uk9o",
-      "description": "Master the foundation of all great singing \u2014 proper breath support.",
-      "added_date": "2026-05-26 07:34:00"
+      "id": 16,
+      "category": "\ud83d\udd0a Belting & Power",
+      "title": "How to Belt High Notes Without Strain",
+      "youtube_video_id": "3bylCYaXHgc",
+      "description": "Chest voice vs mixed voice belting \u2014 learn to belt safely with proper technique.",
+      "added_date": "2026-05-26 07:42:54"
     },
     {
-      "id": 8,
-      "category": "\ud83d\udd0a Belting & Power Vocals",
-      "title": "Safe Belting Technique \u2014 Power Without Strain",
-      "youtube_video_id": "I5EbwB6nBns",
-      "description": "Learn to belt without hurting your voice. Proper breath support and placement.",
-      "added_date": "2026-05-26 07:34:00"
+      "id": 10,
+      "category": "\ud83e\udebd Whistle Voice",
+      "title": "10 Easy Techniques to Sing Whistle Register Today!",
+      "youtube_video_id": "PTOPxYJ4Xnk",
+      "description": "Beginner-friendly whistle voice discovery. Start finding your whistle register with simple exercises.",
+      "added_date": "2026-05-26 07:42:54"
     },
     {
-      "id": 1,
-      "category": "\ud83e\udebd Whistle Voice (\u30db\u30a4\u30c3\u30b9\u30eb\u30dc\u30a4\u30b9)",
-      "title": "How to Find Your Whistle Voice \u2014 Beginner's Guide",
-      "youtube_video_id": "b2NZldAdT1I",
-      "description": "Step-by-step whistle register discovery. Start with sirens and build upward.",
-      "added_date": "2026-05-26 07:34:00"
-    },
-    {
-      "id": 2,
-      "category": "\ud83e\udebd Whistle Voice (\u30db\u30a4\u30c3\u30b9\u30eb\u30dc\u30a4\u30b9)",
-      "title": "Whistle Voice Exercises \u2014 Build Range & Control",
-      "youtube_video_id": "FmnJe2evL_M",
-      "description": "Daily exercises to strengthen your whistle register. Mariah Carey-style technique.",
-      "added_date": "2026-05-26 07:34:00"
-    },
-    {
-      "id": 3,
-      "category": "\ud83e\udebd Whistle Voice (\u30db\u30a4\u30c3\u30b9\u30eb\u30dc\u30a4\u30b9)",
-      "title": "Mariah Carey Whistle Register Analysis",
-      "youtube_video_id": "q8LAVqGn4Qo",
-      "description": "Break down the Queen of Whistle Voice's technique. Learn from the master.",
-      "added_date": "2026-05-26 07:34:00"
+      "id": 11,
+      "category": "\ud83e\udebd Whistle Voice",
+      "title": "Why Does Mariah Carey Touch Her Ear on High Notes?",
+      "youtube_video_id": "lIgPFurxqUM",
+      "description": "Vocal coach breaks down Mariah's famous whistle register technique and ear-touching secret.",
+      "added_date": "2026-05-26 07:42:54"
     }
   ],
   "stats": {
     "total_days": 1,
-    "total_songs": 30
+    "total_songs": 40,
+    "region_counts": {
+      "global": 10,
+      "singapore": 10,
+      "spain": 10,
+      "japan": 10
+    }
   },
-  "updated": "2026-05-26 15:38 SGT"
+  "updated": "2026-05-26 20:27 SGT"
 }

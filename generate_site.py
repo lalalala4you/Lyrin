@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Generate Syncroony site — warm theme + animated shapes + 2-column layout."""
-import sqlite3, os
+import sqlite3, os, json
 from datetime import datetime, timezone, timedelta
 
 SGT = timezone(timedelta(hours=8))
@@ -339,6 +339,13 @@ document.addEventListener('keydown',function(e){{if(e.key==='Escape'){{document.
 </html>'''
     with open(os.path.join(SITE_DIR, "index.html"), "w") as f:
         f.write(html)
+    # Also copy to root for GitHub Pages
+    with open(os.path.join(BASE_DIR, "index.html"), "w") as f:
+        f.write(html)
+    js_dir = os.path.join(BASE_DIR, "js")
+    os.makedirs(js_dir, exist_ok=True)
+    with open(os.path.join(js_dir, "data.json"), "w") as f:
+        json.dump(d, f, indent=2, default=str)
     print(f"✅ {len(dates)} days · {d['stats']['total_songs']} songs · {len(d['tutorials'])} tutorials")
 
 if __name__ == "__main__":
