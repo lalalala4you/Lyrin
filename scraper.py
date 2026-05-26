@@ -18,9 +18,9 @@ DB_PATH = os.path.join(BASE_DIR, "data", "syncroony.db")
 
 CHARTS = {
     "global": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json",
-    "japan": "https://rss.marketingtools.apple.com/api/v2/jp/music/most-played/10/songs.json",
     "singapore": "https://rss.marketingtools.apple.com/api/v2/sg/music/most-played/10/songs.json",
-    "us": "https://rss.marketingtools.apple.com/api/v2/us/music/most-played/10/songs.json",
+    "spain": "https://rss.marketingtools.apple.com/api/v2/es/music/most-played/10/songs.json",
+    "japan": "https://rss.marketingtools.apple.com/api/v2/jp/music/most-played/10/songs.json",
 }
 
 def init_db():
