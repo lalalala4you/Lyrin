@@ -248,6 +248,71 @@ header::after{{content:'';display:block;width:160px;height:4px;background:linear
 
 footer{{text-align:center;padding:28px;color:#c4a080;font-size:.78em;margin-top:24px;border-top:1px solid #f0d8c0}}
 footer a{{color:#e8873a;text-decoration:none}}
+
+/* ── Mobile: phone screens (≤480px) ── */
+@media(max-width:480px){{
+  .wrap{{padding:0 12px 24px}}
+
+  /* Header */
+  header{{padding:28px 12px 12px}}
+  header h1{{font-size:2.4em;letter-spacing:-1px}}
+  header .sub{{font-size:.7em;letter-spacing:.5px}}
+  header::after{{width:100px;margin-top:12px}}
+  @keyframes underline-pulse{{0%,100%{{width:100px;opacity:.8}}50%{{width:140px;opacity:1}}}}
+
+  /* Stats row */
+  .top-bar{{gap:8px;margin-bottom:16px}}
+  .top-bar .b{{padding:10px 14px;min-width:70px;border-radius:10px}}
+  .top-bar .b .bv{{font-size:1.2em}}
+  .top-bar .b .bl{{font-size:.65em}}
+  .region-card{{padding:8px 10px;gap:4px;border-radius:10px;flex-wrap:wrap;justify-content:center}}
+  .region-card-label{{font-size:.62em}}
+  .region-card .rtab{{padding:4px 8px;font-size:.68em;border-radius:12px}}
+
+  /* Main layout: single column */
+  .main{{flex-direction:column;gap:16px}}
+  .charts{{max-height:none;border-radius:10px}}
+  .charts-header{{padding:14px 14px 8px}}
+  .charts-header h2{{font-size:1em;margin-bottom:10px}}
+  .charts-scroll{{padding:0 14px 14px}}
+  .tabs{{gap:4px}}
+  .dtab{{padding:5px 10px;font-size:.72em;border-radius:14px}}
+
+  /* Song cards — compact, no MV */
+  .song{{padding:8px 10px;gap:6px;border-radius:8px;flex-wrap:wrap}}
+  .song .r{{width:28px;height:28px;font-size:.75em}}
+  .song .art{{width:44px;height:44px;border-radius:8px}}
+  .song .sn{{font-size:.82em}}
+  .song .sa{{font-size:.7em}}
+  .song .tags{{max-width:100%;width:100%;gap:3px}}
+  .song .tag{{font-size:.62em;padding:2px 6px}}
+  /* Hide MV column on phone */
+  .song .mv-wrap{{display:none}}
+  /* Give meta more room */
+  .song .r.r1{{font-size:.85em}}
+
+  /* Regional pulse */
+  .pulse{{margin-top:8px;padding-top:8px}}
+  .pulse-label{{font-size:.65em}}
+  .pulse-card{{min-width:100%;padding:6px 8px}}
+  .pm-s{{font-size:.68em}}
+  .pm-a{{font-size:.62em}}
+
+  /* Tutorials */
+  .tutorials{{width:100%;max-height:none;position:static;padding:14px;border-radius:10px}}
+  .tutorials h2{{font-size:1em;margin-bottom:12px}}
+  .tcat{{font-size:.72em;margin:10px 0 4px}}
+  .tcard .tt{{font-size:.7em}}
+  .tcard .tlink{{font-size:.65em}}
+
+  /* Footer */
+  footer{{padding:18px;font-size:.68em;margin-top:16px}}
+
+  /* Modal */
+  .modal-box{{width:95vw}}
+  .song .r.r1{{box-shadow:0 0 10px rgba(255,59,48,.35)}}
+  @keyframes rankPulse{{0%,100%{{box-shadow:0 0 10px rgba(255,59,48,.35);transform:scale(1)}}50%{{box-shadow:0 0 18px rgba(255,59,48,.55);transform:scale(1.05)}}}}
+}}
 </style>
 </head>
 <body>
