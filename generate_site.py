@@ -289,7 +289,8 @@ footer a{{color:#e8873a;text-decoration:none}}
   .song .sa{{font-size:.74em}}
   .song .tags{{max-width:none;width:100%;order:10;gap:4px;margin-top:3px}}
   .song .tag{{font-size:.68em;padding:3px 8px}}
-  .song .mv-wrap{{display:none}}
+  .song .mv-wrap{{display:flex;width:100%;order:20;margin-top:4px}}
+  .song .mv{{width:100%;padding-bottom:56.25%}}
 
   /* Regional pulse */
   .pulse{{margin-top:8px;padding-top:8px}}
