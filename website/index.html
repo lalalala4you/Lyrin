@@ -148,67 +148,67 @@ footer a{color:#e8873a;text-decoration:none}
 
 /* ── Mobile: phone screens (≤480px) ── */
 @media(max-width:480px){
-  .wrap{padding:0 12px 24px}
+  .wrap{padding:0 8px 24px}
 
   /* Header */
-  header{padding:28px 12px 12px}
-  header h1{font-size:2.4em;letter-spacing:-1px}
-  header .sub{font-size:.7em;letter-spacing:.5px}
-  header::after{width:100px;margin-top:12px}
+  header{padding:22px 8px 8px}
+  header h1{font-size:2.6em;letter-spacing:-1px}
+  header .sub{font-size:.72em;letter-spacing:.5px}
+  header::after{width:100px;margin-top:8px}
   @keyframes underline-pulse{0%,100%{width:100px;opacity:.8}50%{width:140px;opacity:1}}
 
-  /* Stats row */
-  .top-bar{gap:8px;margin-bottom:16px}
-  .top-bar .b{padding:10px 14px;min-width:70px;border-radius:10px}
-  .top-bar .b .bv{font-size:1.2em}
-  .top-bar .b .bl{font-size:.65em}
-  .region-card{padding:8px 10px;gap:4px;border-radius:10px;flex-wrap:wrap;justify-content:center}
-  .region-card-label{font-size:.62em}
-  .region-card .rtab{padding:4px 8px;font-size:.68em;border-radius:12px}
+  /* Stats row — 2 columns grid, region full width */
+  .top-bar{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:12px;max-width:100%}
+  .top-bar .b{padding:10px 6px;min-width:0;border-radius:10px}
+  .top-bar .b .bv{font-size:1.3em}
+  .top-bar .b .bl{font-size:.66em}
+  .region-card{grid-column:1/-1;padding:8px 8px;gap:4px;border-radius:10px;flex-wrap:wrap;justify-content:center}
+  .region-card-label{font-size:.64em}
+  .region-card .rtab{padding:5px 10px;font-size:.72em;border-radius:14px}
 
-  /* Main layout: single column */
-  .main{flex-direction:column;gap:16px}
-  .charts{max-height:none;border-radius:10px}
-  .charts-header{padding:14px 14px 8px}
-  .charts-header h2{font-size:1em;margin-bottom:10px}
-  .charts-scroll{padding:0 14px 14px}
+  /* Main: single column, full width */
+  .main{flex-direction:column;gap:12px}
+  .charts{max-height:none;flex:none;width:100%;border-radius:10px}
+  .charts-header{padding:12px 10px 8px}
+  .charts-header h2{font-size:1.05em;margin-bottom:8px}
+  .charts-scroll{padding:0 10px 12px}
   .tabs{gap:4px}
-  .dtab{padding:5px 10px;font-size:.72em;border-radius:14px}
+  .dtab{padding:5px 12px;font-size:.75em;border-radius:14px}
+  .day.active{gap:6px}
 
-  /* Song cards — compact, no MV */
-  .song{padding:8px 10px;gap:6px;border-radius:8px;flex-wrap:wrap}
-  .song .r{width:28px;height:28px;font-size:.75em}
-  .song .art{width:44px;height:44px;border-radius:8px}
-  .song .sn{font-size:.82em}
-  .song .sa{font-size:.7em}
-  .song .tags{max-width:100%;width:100%;gap:3px}
-  .song .tag{font-size:.62em;padding:2px 6px}
-  /* Hide MV column on phone */
+  /* Song cards — full width, keep text readable */
+  .song{padding:10px 10px;gap:8px;border-radius:8px;flex-wrap:wrap}
+  .song .r{width:30px;height:30px;font-size:.8em;flex-shrink:0}
+  .song .r.r1{font-size:.9em}
+  .song .art{width:48px;height:48px;border-radius:8px;flex-shrink:0}
+  .song .meta{flex:1 1 calc(100% - 90px);min-width:0}
+  .song .sn{font-size:.88em}
+  .song .sa{font-size:.74em}
+  .song .tags{max-width:none;width:100%;order:10;gap:4px;margin-top:3px}
+  .song .tag{font-size:.68em;padding:3px 8px}
   .song .mv-wrap{display:none}
-  /* Give meta more room */
-  .song .r.r1{font-size:.85em}
 
   /* Regional pulse */
   .pulse{margin-top:8px;padding-top:8px}
-  .pulse-label{font-size:.65em}
-  .pulse-card{min-width:100%;padding:6px 8px}
-  .pm-s{font-size:.68em}
-  .pm-a{font-size:.62em}
+  .pulse-label{font-size:.68em}
+  .pulse-row{flex-direction:column;gap:5px}
+  .pulse-card{min-width:0;width:100%;padding:8px 10px}
+  .pa{width:32px;height:32px}
+  .pm-s{font-size:.72em}
+  .pm-a{font-size:.66em}
 
-  /* Tutorials */
-  .tutorials{width:100%;max-height:none;position:static;padding:14px;border-radius:10px}
-  .tutorials h2{font-size:1em;margin-bottom:12px}
-  .tcat{font-size:.72em;margin:10px 0 4px}
-  .tcard .tt{font-size:.7em}
-  .tcard .tlink{font-size:.65em}
+  /* Tutorials — full width */
+  .tutorials{width:100%;max-height:none;position:static;padding:14px 10px;border-radius:10px}
+  .tutorials h2{font-size:1.05em;margin-bottom:10px}
+  .tcat{font-size:.76em;margin:12px 0 6px}
+  .tcard .tt{font-size:.74em}
+  .tcard .tlink{font-size:.68em}
 
   /* Footer */
-  footer{padding:18px;font-size:.68em;margin-top:16px}
+  footer{padding:16px 10px;font-size:.7em;margin-top:14px}
 
   /* Modal */
   .modal-box{width:95vw}
-  .song .r.r1{box-shadow:0 0 10px rgba(255,59,48,.35)}
-  @keyframes rankPulse{0%,100%{box-shadow:0 0 10px rgba(255,59,48,.35);transform:scale(1)}50%{box-shadow:0 0 18px rgba(255,59,48,.55);transform:scale(1.05)}}
 }
 </style>
 </head>
@@ -673,7 +673,7 @@ footer a{color:#e8873a;text-decoration:none}
   </div>
 </div>
 <footer>
-  <p>Powered by Apple Music & YouTube · Curated by Rinちゃん ✨ · 2026-05-27 21:29 SGT</p>
+  <p>Powered by Apple Music & YouTube · Curated by Rinちゃん ✨ · 2026-05-27 21:32 SGT</p>
 </footer>
 </div>
 <div class="modal-overlay" id="modal">
