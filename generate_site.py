@@ -390,12 +390,17 @@ document.addEventListener('click',function(e){{
   if(ov){{
     e.preventDefault();e.stopPropagation();
     var vid=ov.dataset.vid;
-    var iframe=ov.parentElement.querySelector('iframe');
-    // Pause all others first
+    var container=ov.parentElement;
+    var iframe=container.querySelector('iframe');
     pauseAllOthers(iframe);
-    // Open modal
-    document.getElementById('modalVid').innerHTML='<iframe src="https://www.youtube.com/embed/'+vid+'?autoplay=1&enablejsapi=1" allowfullscreen allow="autoplay" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none"></iframe>';
-    document.getElementById('modal').classList.add('show');
+    // Mobile (<640px): play inline, no modal
+    if(window.innerWidth<640){{
+      container.innerHTML='<iframe src="https://www.youtube.com/embed/'+vid+'?autoplay=1&playsinline=1&enablejsapi=1" allowfullscreen allow="autoplay; fullscreen" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none" data-vid="'+vid+'"></iframe>';
+    }}else{{
+      // Desktop: modal popup
+      document.getElementById('modalVid').innerHTML='<iframe src="https://www.youtube.com/embed/'+vid+'?autoplay=1&enablejsapi=1" allowfullscreen allow="autoplay" style="position:absolute;top:0;left:0;width:100%;height:100%;border:none"></iframe>';
+      document.getElementById('modal').classList.add('show');
+    }}
   }}
 }});
 
