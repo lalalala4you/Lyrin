@@ -80,7 +80,7 @@
       ],
       "singapore": [
         {
-          "id": 1344,
+          "id": 1379,
           "date": "2026-06-17",
           "region": "singapore",
           "rank": 1,
@@ -91,10 +91,10 @@
           "youtube_video_id": "82-jTNka3uc",
           "youtube_search_query": "Ariana Grande hate that i made you love me official music video",
           "genres": "Pop, Music",
-          "created_at": "2026-06-17 13:13:55"
+          "created_at": "2026-06-17 13:14:42"
         },
         {
-          "id": 1345,
+          "id": 1380,
           "date": "2026-06-17",
           "region": "singapore",
           "rank": 2,
@@ -105,10 +105,10 @@
           "youtube_video_id": "Rt9tW3cMLhI",
           "youtube_search_query": "Olivia Rodrigo stupid song official music video",
           "genres": "Pop, Music",
-          "created_at": "2026-06-17 13:13:56"
+          "created_at": "2026-06-17 13:14:44"
         },
         {
-          "id": 1346,
+          "id": 1381,
           "date": "2026-06-17",
           "region": "singapore",
           "rank": 3,
@@ -119,10 +119,10 @@
           "youtube_video_id": "78wrful9cVU",
           "youtube_search_query": "Olivia Rodrigo drop dead official music video",
           "genres": "Pop, Music",
-          "created_at": "2026-06-17 13:13:57"
+          "created_at": "2026-06-17 13:14:45"
         },
         {
-          "id": 1347,
+          "id": 1382,
           "date": "2026-06-17",
           "region": "singapore",
           "rank": 4,
@@ -133,10 +133,10 @@
           "youtube_video_id": "B402rKl4bUg",
           "youtube_search_query": "Olivia Rodrigo the cure official music video",
           "genres": "Pop, Music",
-          "created_at": "2026-06-17 13:13:58"
+          "created_at": "2026-06-17 13:14:46"
         },
         {
-          "id": 1348,
+          "id": 1383,
           "date": "2026-06-17",
           "region": "singapore",
           "rank": 5,
@@ -147,12 +147,12 @@
           "youtube_video_id": "60rlboK94mE",
           "youtube_search_query": "Olivia Rodrigo honeybee official music video",
           "genres": "Pop, Music",
-          "created_at": "2026-06-17 13:14:00"
+          "created_at": "2026-06-17 13:14:47"
         }
       ],
       "spain": [
         {
-          "id": 1354,
+          "id": 1389,
           "date": "2026-06-17",
           "region": "spain",
           "rank": 1,
@@ -163,10 +163,10 @@
           "youtube_video_id": "LZPLBSRnxSY",
           "youtube_search_query": "Quevedo & Elvis Crespo LA GRACIOSA official music video",
           "genres": "M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-06-17 13:14:08"
+          "created_at": "2026-06-17 13:15:03"
         },
         {
-          "id": 1355,
+          "id": 1390,
           "date": "2026-06-17",
           "region": "spain",
           "rank": 2,
@@ -177,10 +177,10 @@
           "youtube_video_id": "-jm7ZjTqNz0",
           "youtube_search_query": "Quevedo & Nueva L\u00ednea AL GOLPITO official music video",
           "genres": "M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-06-17 13:14:09"
+          "created_at": "2026-06-17 13:15:04"
         },
         {
-          "id": 1356,
+          "id": 1391,
           "date": "2026-06-17",
           "region": "spain",
           "rank": 3,
@@ -191,10 +191,10 @@
           "youtube_video_id": "xCkf2L7gFnI",
           "youtube_search_query": "Jay Wheeler & Omar Courtz De Lejitos (Remix) official music video",
           "genres": "M\u00fasica latina, M\u00fasica",
-          "created_at": "2026-06-17 13:14:11"
+          "created_at": "2026-06-17 13:15:05"
         },
         {
-          "id": 1357,
+          "id": 1392,
           "date": "2026-06-17",
           "region": "spain",
           "rank": 4,
@@ -205,10 +205,10 @@
           "youtube_video_id": "a1Femq4NPxs",
           "youtube_search_query": "Bad Bunny BAILE INoLVIDABLE official music video",
           "genres": "M\u00fasica latina, M\u00fasica",
-          "created_at": "2026-06-17 13:14:12"
+          "created_at": "2026-06-17 13:15:07"
         },
         {
-          "id": 1358,
+          "id": 1393,
           "date": "2026-06-17",
           "region": "spain",
           "rank": 5,
@@ -219,12 +219,12 @@
           "youtube_video_id": "slmRkI1xAqk",
           "youtube_search_query": "Omar Courtz KOKO official music video",
           "genres": "M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-06-17 13:14:13"
+          "created_at": "2026-06-17 13:15:08"
         }
       ],
       "japan": [
         {
-          "id": 1364,
+          "id": 1399,
           "date": "2026-06-17",
           "region": "japan",
           "rank": 1,
@@ -235,10 +235,10 @@
           "youtube_video_id": "1DzBKtD3JzI",
           "youtube_search_query": "\u5d50 Five official music video",
           "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-          "created_at": "2026-06-17 13:14:23"
+          "created_at": "2026-06-17 13:15:17"
         },
         {
-          "id": 1365,
+          "id": 1400,
           "date": "2026-06-17",
           "region": "japan",
           "rank": 2,
@@ -249,10 +249,10 @@
           "youtube_video_id": "QjrkrVmC-8M",
           "youtube_search_query": "Mrs. GREEN APPLE \u30e9\u30a4\u30e9\u30c3\u30af official music video",
           "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-          "created_at": "2026-06-17 13:14:24"
+          "created_at": "2026-06-17 13:15:19"
         },
         {
-          "id": 1366,
+          "id": 1401,
           "date": "2026-06-17",
           "region": "japan",
           "rank": 3,
@@ -263,10 +263,10 @@
           "youtube_video_id": "2I25AFSBm2g",
           "youtube_search_query": "\u30b5\u30ab\u30ca\u30af\u30b7\u30e7\u30f3 \u591c\u306e\u8e0a\u308a\u5b50 official music video",
           "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-          "created_at": "2026-06-17 13:14:25"
+          "created_at": "2026-06-17 13:15:20"
         },
         {
-          "id": 1367,
+          "id": 1402,
           "date": "2026-06-17",
           "region": "japan",
           "rank": 4,
@@ -277,10 +277,10 @@
           "youtube_video_id": "LmZD-TU96q4",
           "youtube_search_query": "\u7c73\u6d25\u7384\u5e2b IRIS OUT official music video",
           "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-          "created_at": "2026-06-17 13:14:27"
+          "created_at": "2026-06-17 13:15:21"
         },
         {
-          "id": 1368,
+          "id": 1403,
           "date": "2026-06-17",
           "region": "japan",
           "rank": 5,
@@ -291,7 +291,7 @@
           "youtube_video_id": "ZVUxJsPfoX8",
           "youtube_search_query": "M!LK \u597d\u304d\u3059\u304e\u3066\u6ec5! official music video",
           "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-          "created_at": "2026-06-17 13:14:28"
+          "created_at": "2026-06-17 13:15:23"
         }
       ]
     },
@@ -879,7 +879,7 @@
   "regional": {
     "2026-06-17": [
       {
-        "id": 1344,
+        "id": 1379,
         "date": "2026-06-17",
         "region": "singapore",
         "rank": 1,
@@ -890,10 +890,10 @@
         "youtube_video_id": "82-jTNka3uc",
         "youtube_search_query": "Ariana Grande hate that i made you love me official music video",
         "genres": "Pop, Music",
-        "created_at": "2026-06-17 13:13:55"
+        "created_at": "2026-06-17 13:14:42"
       },
       {
-        "id": 1354,
+        "id": 1389,
         "date": "2026-06-17",
         "region": "spain",
         "rank": 1,
@@ -904,10 +904,10 @@
         "youtube_video_id": "LZPLBSRnxSY",
         "youtube_search_query": "Quevedo & Elvis Crespo LA GRACIOSA official music video",
         "genres": "M\u00fasica, M\u00fasica latina",
-        "created_at": "2026-06-17 13:14:08"
+        "created_at": "2026-06-17 13:15:03"
       },
       {
-        "id": 1364,
+        "id": 1399,
         "date": "2026-06-17",
         "region": "japan",
         "rank": 1,
@@ -918,7 +918,7 @@
         "youtube_video_id": "1DzBKtD3JzI",
         "youtube_search_query": "\u5d50 Five official music video",
         "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-        "created_at": "2026-06-17 13:14:23"
+        "created_at": "2026-06-17 13:15:17"
       }
     ],
     "2026-06-16": [
@@ -1078,5 +1078,5 @@
       "japan": 20
     }
   },
-  "updated": "2026-06-17 21:14 SGT"
+  "updated": "2026-06-17 21:15 SGT"
 }
