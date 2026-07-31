@@ -1,10 +1,300 @@
 {
   "dates": [
+    "2026-07-31",
     "2026-07-30",
-    "2026-07-29",
-    "2026-07-28"
+    "2026-07-29"
   ],
   "daily_data": {
+    "2026-07-31": {
+      "global": [
+        {
+          "id": 3144,
+          "date": "2026-07-31",
+          "region": "global",
+          "rank": 1,
+          "song_name": "Been By Now",
+          "artist_name": "Morgan Wallen",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
+          "youtube_video_id": "6q5F7UUiXK0",
+          "youtube_search_query": "Morgan Wallen Been By Now official music video",
+          "genres": "Country, Music",
+          "created_at": "2026-07-31 13:44:50"
+        },
+        {
+          "id": 3145,
+          "date": "2026-07-31",
+          "region": "global",
+          "rank": 2,
+          "song_name": "Choosin' Texas",
+          "artist_name": "Ella Langley",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
+          "youtube_video_id": "nUsrYVxrDwI",
+          "youtube_search_query": "Ella Langley Choosin' Texas official music video",
+          "genres": "Country, Music",
+          "created_at": "2026-07-31 13:44:53"
+        },
+        {
+          "id": 3146,
+          "date": "2026-07-31",
+          "region": "global",
+          "rank": 3,
+          "song_name": "Dead Fresh",
+          "artist_name": "Lil Baby",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133",
+          "youtube_video_id": "PXxbEfhtDiM",
+          "youtube_search_query": "Lil Baby Dead Fresh official music video",
+          "genres": "Hip-Hop/Rap, Music",
+          "created_at": "2026-07-31 13:44:55"
+        },
+        {
+          "id": 3147,
+          "date": "2026-07-31",
+          "region": "global",
+          "rank": 4,
+          "song_name": "Janice STFU",
+          "artist_name": "Drake",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+          "youtube_video_id": "SD4yRDY9mek",
+          "youtube_search_query": "Drake Janice STFU official music video",
+          "genres": "Hip-Hop/Rap, Music",
+          "created_at": "2026-07-31 13:44:57"
+        },
+        {
+          "id": 3148,
+          "date": "2026-07-31",
+          "region": "global",
+          "rank": 5,
+          "song_name": "hate that i made you love me",
+          "artist_name": "Ariana Grande",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/us/album/hate-that-i-made-you-love-me/1895420989?i=6763656876",
+          "youtube_video_id": "82-jTNka3uc",
+          "youtube_search_query": "Ariana Grande hate that i made you love me official music video",
+          "genres": "Pop, Music",
+          "created_at": "2026-07-31 13:44:59"
+        }
+      ],
+      "singapore": [
+        {
+          "id": 3154,
+          "date": "2026-07-31",
+          "region": "singapore",
+          "rank": 1,
+          "song_name": "hate that i made you love me",
+          "artist_name": "Ariana Grande",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/sg/album/hate-that-i-made-you-love-me/1895420989?i=6763656876",
+          "youtube_video_id": "82-jTNka3uc",
+          "youtube_search_query": "Ariana Grande hate that i made you love me official music video",
+          "genres": "Pop, Music",
+          "created_at": "2026-07-31 13:45:12"
+        },
+        {
+          "id": 3155,
+          "date": "2026-07-31",
+          "region": "singapore",
+          "rank": 2,
+          "song_name": "Less than a Lover",
+          "artist_name": "JENNIE",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8d/ac/90/8dac9090-2a14-20d9-ed97-6a35ad299beb/196874620281.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/sg/album/less-than-a-lover/6793277024?i=6793277028",
+          "youtube_video_id": "_IT83Y_HcAw",
+          "youtube_search_query": "JENNIE Less than a Lover official music video",
+          "genres": "Pop, Music, K-Pop",
+          "created_at": "2026-07-31 13:45:14"
+        },
+        {
+          "id": 3156,
+          "date": "2026-07-31",
+          "region": "singapore",
+          "rank": 3,
+          "song_name": "stupid song",
+          "artist_name": "Olivia Rodrigo",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/sg/album/stupid-song/1889992111?i=1889992115",
+          "youtube_video_id": "Rt9tW3cMLhI",
+          "youtube_search_query": "Olivia Rodrigo stupid song official music video",
+          "genres": "Pop, Music",
+          "created_at": "2026-07-31 13:45:16"
+        },
+        {
+          "id": 3157,
+          "date": "2026-07-31",
+          "region": "singapore",
+          "rank": 4,
+          "song_name": "petal",
+          "artist_name": "Ariana Grande",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/56/f4/96/56f49612-02dd-83f4-44fe-d2118cc70707/26UMGIM51129.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/sg/album/petal/1895420874?i=6763656726",
+          "youtube_video_id": "Tc-gXkHAri8",
+          "youtube_search_query": "Ariana Grande petal official music video",
+          "genres": "Pop, Music",
+          "created_at": "2026-07-31 13:45:18"
+        },
+        {
+          "id": 3158,
+          "date": "2026-07-31",
+          "region": "singapore",
+          "rank": 5,
+          "song_name": "Animal",
+          "artist_name": "KATSEYE",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/28/92/e22892a7-fe88-72cf-ecba-691030dfcf7e/26UMGIM41151.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/sg/album/animal/1891779764?i=1891779776",
+          "youtube_video_id": "m7k9UMcHbr0",
+          "youtube_search_query": "KATSEYE Animal official music video",
+          "genres": "Pop, Music",
+          "created_at": "2026-07-31 13:45:22"
+        }
+      ],
+      "spain": [
+        {
+          "id": 3164,
+          "date": "2026-07-31",
+          "region": "spain",
+          "rank": 1,
+          "song_name": "LA GRACIOSA",
+          "artist_name": "Quevedo & Elvis Crespo",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112",
+          "youtube_video_id": "LZPLBSRnxSY",
+          "youtube_search_query": "Quevedo & Elvis Crespo LA GRACIOSA official music video",
+          "genres": "M\u00fasica, M\u00fasica latina",
+          "created_at": "2026-07-31 13:45:36"
+        },
+        {
+          "id": 3165,
+          "date": "2026-07-31",
+          "region": "spain",
+          "rank": 2,
+          "song_name": "SUPERESTRELLA",
+          "artist_name": "Aitana",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/es/album/superestrella/1814146266?i=1814146675",
+          "youtube_video_id": "vz_vU53JvvI",
+          "youtube_search_query": "Aitana SUPERESTRELLA official music video",
+          "genres": "M\u00fasica, M\u00fasica latina",
+          "created_at": "2026-07-31 13:45:38"
+        },
+        {
+          "id": 3166,
+          "date": "2026-07-31",
+          "region": "spain",
+          "rank": 3,
+          "song_name": "AL GOLPITO",
+          "artist_name": "Quevedo & Nueva L\u00ednea",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/es/album/al-golpito/1894271358?i=1894271858",
+          "youtube_video_id": "7cHRcVDPnR0",
+          "youtube_search_query": "Quevedo & Nueva L\u00ednea AL GOLPITO official music video",
+          "genres": "M\u00fasica, M\u00fasica latina",
+          "created_at": "2026-07-31 13:45:40"
+        },
+        {
+          "id": 3167,
+          "date": "2026-07-31",
+          "region": "spain",
+          "rank": 4,
+          "song_name": "pa ti toa <3",
+          "artist_name": "Ana Mena & Lola Indigo",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/fa/6f/9efa6fe0-5ce8-3f55-7ed6-24cda7d77505/196874447369.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/es/album/pa-ti-toa-3/6774634328?i=6774634329",
+          "youtube_video_id": "52cnhvRR6h4",
+          "youtube_search_query": "Ana Mena & Lola Indigo pa ti toa <3 official music video",
+          "genres": "Pop, M\u00fasica, M\u00fasica latina",
+          "created_at": "2026-07-31 13:45:41"
+        },
+        {
+          "id": 3168,
+          "date": "2026-07-31",
+          "region": "spain",
+          "rank": 5,
+          "song_name": "Dai Dai",
+          "artist_name": "Shakira & Burna Boy",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/es/album/dai-dai/6768469975?i=6768469976",
+          "youtube_video_id": "fcnDmrtj6Sk",
+          "youtube_search_query": "Shakira & Burna Boy Dai Dai official music video",
+          "genres": "Pop, M\u00fasica",
+          "created_at": "2026-07-31 13:45:43"
+        }
+      ],
+      "japan": [
+        {
+          "id": 3174,
+          "date": "2026-07-31",
+          "region": "japan",
+          "rank": 1,
+          "song_name": "Brand New",
+          "artist_name": "Mrs. GREEN APPLE",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/b6/41a0b6b9-a720-25e5-fc69-7e9c3ca1296e/26UMGIM73217.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/brand-new/6788211807?i=6788211810",
+          "youtube_video_id": "dePs7UPp6GQ",
+          "youtube_search_query": "Mrs. GREEN APPLE Brand New official music video",
+          "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-07-31 13:45:53"
+        },
+        {
+          "id": 3175,
+          "date": "2026-07-31",
+          "region": "japan",
+          "rank": 2,
+          "song_name": "\u30e9\u30a4\u30e9\u30c3\u30af",
+          "artist_name": "Mrs. GREEN APPLE",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF/1739088465?i=1739088799",
+          "youtube_video_id": "QjrkrVmC-8M",
+          "youtube_search_query": "Mrs. GREEN APPLE \u30e9\u30a4\u30e9\u30c3\u30af official music video",
+          "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-07-31 13:45:54"
+        },
+        {
+          "id": 3176,
+          "date": "2026-07-31",
+          "region": "japan",
+          "rank": 3,
+          "song_name": "\u597d\u304d\u3059\u304e\u3066\u6ec5!",
+          "artist_name": "M!LK",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%BB%85/1846753945?i=1846753946",
+          "youtube_video_id": "ZVUxJsPfoX8",
+          "youtube_search_query": "M!LK \u597d\u304d\u3059\u304e\u3066\u6ec5! official music video",
+          "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-07-31 13:45:56"
+        },
+        {
+          "id": 3177,
+          "date": "2026-07-31",
+          "region": "japan",
+          "rank": 4,
+          "song_name": "\u7206\u88c2\u611b\u3057\u3066\u308b",
+          "artist_name": "M!LK",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/b1/53/45b153d5-e943-6cd9-620e-0a4c66b7525b/VEATP-45199.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/%E7%88%86%E8%A3%82%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B/1869537741?i=1869537742",
+          "youtube_video_id": "tpFDnOnOdSQ",
+          "youtube_search_query": "M!LK \u7206\u88c2\u611b\u3057\u3066\u308b official music video",
+          "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-07-31 13:45:57"
+        },
+        {
+          "id": 3178,
+          "date": "2026-07-31",
+          "region": "japan",
+          "rank": 5,
+          "song_name": "IRIS OUT",
+          "artist_name": "\u7c73\u6d25\u7384\u5e2b",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f9/f1/e0f9f1f3-a088-b28d-6760-a28accabc705/4547366775181.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/iris-out/1837658528?i=1837658529",
+          "youtube_video_id": "LmZD-TU96q4",
+          "youtube_search_query": "\u7c73\u6d25\u7384\u5e2b IRIS OUT official music video",
+          "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-07-31 13:45:59"
+        }
+      ]
+    },
     "2026-07-30": {
       "global": [
         {
@@ -371,228 +661,53 @@
       "singapore": [],
       "spain": [],
       "japan": []
-    },
-    "2026-07-28": {
-      "global": [
-        {
-          "id": 3044,
-          "date": "2026-07-28",
-          "region": "global",
-          "rank": 1,
-          "song_name": "Been By Now",
-          "artist_name": "Morgan Wallen",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
-          "youtube_video_id": null,
-          "youtube_search_query": "Morgan Wallen Been By Now official music video",
-          "genres": "Country, Music",
-          "created_at": "2026-07-27 21:29:45"
-        },
-        {
-          "id": 3045,
-          "date": "2026-07-28",
-          "region": "global",
-          "rank": 2,
-          "song_name": "Choosin' Texas",
-          "artist_name": "Ella Langley",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
-          "youtube_video_id": "nUsrYVxrDwI",
-          "youtube_search_query": "Ella Langley Choosin' Texas official music video",
-          "genres": "Country, Music",
-          "created_at": "2026-07-27 21:29:46"
-        },
-        {
-          "id": 3046,
-          "date": "2026-07-28",
-          "region": "global",
-          "rank": 3,
-          "song_name": "Dead Fresh",
-          "artist_name": "Lil Baby",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133",
-          "youtube_video_id": "PXxbEfhtDiM",
-          "youtube_search_query": "Lil Baby Dead Fresh official music video",
-          "genres": "Hip-Hop/Rap, Music",
-          "created_at": "2026-07-27 21:29:47"
-        },
-        {
-          "id": 3047,
-          "date": "2026-07-28",
-          "region": "global",
-          "rank": 4,
-          "song_name": "Janice STFU",
-          "artist_name": "Drake",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
-          "youtube_video_id": "SD4yRDY9mek",
-          "youtube_search_query": "Drake Janice STFU official music video",
-          "genres": "Hip-Hop/Rap, Music",
-          "created_at": "2026-07-27 21:29:48"
-        },
-        {
-          "id": 3048,
-          "date": "2026-07-28",
-          "region": "global",
-          "rank": 5,
-          "song_name": "I Can't Love You Anymore",
-          "artist_name": "Ella Langley & Morgan Wallen",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996",
-          "youtube_video_id": "A3G_7XgK2B4",
-          "youtube_search_query": "Ella Langley & Morgan Wallen I Can't Love You Anymore official music video",
-          "genres": "Country, Music",
-          "created_at": "2026-07-27 21:29:49"
-        }
-      ],
-      "singapore": [],
-      "spain": [
-        {
-          "id": 3054,
-          "date": "2026-07-28",
-          "region": "spain",
-          "rank": 1,
-          "song_name": "LA GRACIOSA",
-          "artist_name": "Quevedo & Elvis Crespo",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112",
-          "youtube_video_id": "LZPLBSRnxSY",
-          "youtube_search_query": "Quevedo & Elvis Crespo LA GRACIOSA official music video",
-          "genres": "M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-07-27 21:45:36"
-        },
-        {
-          "id": 3055,
-          "date": "2026-07-28",
-          "region": "spain",
-          "rank": 2,
-          "song_name": "SUPERESTRELLA",
-          "artist_name": "Aitana",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/es/album/superestrella/1814146266?i=1814146675",
-          "youtube_video_id": "vz_vU53JvvI",
-          "youtube_search_query": "Aitana SUPERESTRELLA official music video",
-          "genres": "M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-07-27 21:45:37"
-        },
-        {
-          "id": 3056,
-          "date": "2026-07-28",
-          "region": "spain",
-          "rank": 3,
-          "song_name": "AL GOLPITO",
-          "artist_name": "Quevedo & Nueva L\u00ednea",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/es/album/al-golpito/1894271358?i=1894271858",
-          "youtube_video_id": "7cHRcVDPnR0",
-          "youtube_search_query": "Quevedo & Nueva L\u00ednea AL GOLPITO official music video",
-          "genres": "M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-07-27 21:45:38"
-        },
-        {
-          "id": 3057,
-          "date": "2026-07-28",
-          "region": "spain",
-          "rank": 4,
-          "song_name": "pa ti toa <3",
-          "artist_name": "Ana Mena & Lola Indigo",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/fa/6f/9efa6fe0-5ce8-3f55-7ed6-24cda7d77505/196874447369.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/es/album/pa-ti-toa-3/6774634328?i=6774634329",
-          "youtube_video_id": "52cnhvRR6h4",
-          "youtube_search_query": "Ana Mena & Lola Indigo pa ti toa <3 official music video",
-          "genres": "Pop, M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-07-27 21:45:39"
-        },
-        {
-          "id": 3058,
-          "date": "2026-07-28",
-          "region": "spain",
-          "rank": 5,
-          "song_name": "Dai Dai",
-          "artist_name": "Shakira & Burna Boy",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/61/49/8d/61498ded-f0dc-227d-cd1d-2051b5d9f195/196874328590.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/es/album/dai-dai/6768469975?i=6768469976",
-          "youtube_video_id": "fcnDmrtj6Sk",
-          "youtube_search_query": "Shakira & Burna Boy Dai Dai official music video",
-          "genres": "Pop, M\u00fasica",
-          "created_at": "2026-07-27 21:45:40"
-        }
-      ],
-      "japan": [
-        {
-          "id": 3064,
-          "date": "2026-07-28",
-          "region": "japan",
-          "rank": 1,
-          "song_name": "Brand New",
-          "artist_name": "Mrs. GREEN APPLE",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/b6/41a0b6b9-a720-25e5-fc69-7e9c3ca1296e/26UMGIM73217.rgb.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/jp/album/brand-new/6788211807?i=6788211810",
-          "youtube_video_id": "UZ4an60Zmvc",
-          "youtube_search_query": "Mrs. GREEN APPLE Brand New official music video",
-          "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-          "created_at": "2026-07-27 22:01:32"
-        },
-        {
-          "id": 3065,
-          "date": "2026-07-28",
-          "region": "japan",
-          "rank": 2,
-          "song_name": "\u30e9\u30a4\u30e9\u30c3\u30af",
-          "artist_name": "Mrs. GREEN APPLE",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/jp/album/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF/1739088465?i=1739088799",
-          "youtube_video_id": "QjrkrVmC-8M",
-          "youtube_search_query": "Mrs. GREEN APPLE \u30e9\u30a4\u30e9\u30c3\u30af official music video",
-          "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-          "created_at": "2026-07-27 22:01:32"
-        },
-        {
-          "id": 3066,
-          "date": "2026-07-28",
-          "region": "japan",
-          "rank": 3,
-          "song_name": "\u597d\u304d\u3059\u304e\u3066\u6ec5!",
-          "artist_name": "M!LK",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%BB%85/1846753945?i=1846753946",
-          "youtube_video_id": "ZVUxJsPfoX8",
-          "youtube_search_query": "M!LK \u597d\u304d\u3059\u304e\u3066\u6ec5! official music video",
-          "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-          "created_at": "2026-07-27 22:17:38"
-        },
-        {
-          "id": 3067,
-          "date": "2026-07-28",
-          "region": "japan",
-          "rank": 4,
-          "song_name": "\u7206\u88c2\u611b\u3057\u3066\u308b",
-          "artist_name": "M!LK",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/45/b1/53/45b153d5-e943-6cd9-620e-0a4c66b7525b/VEATP-45199.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/jp/album/%E7%88%86%E8%A3%82%E6%84%9B%E3%81%97%E3%81%A6%E3%82%8B/1869537741?i=1869537742",
-          "youtube_video_id": "tpFDnOnOdSQ",
-          "youtube_search_query": "M!LK \u7206\u88c2\u611b\u3057\u3066\u308b official music video",
-          "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-          "created_at": "2026-07-27 22:17:40"
-        },
-        {
-          "id": 3068,
-          "date": "2026-07-28",
-          "region": "japan",
-          "rank": 5,
-          "song_name": "\u9752\u3068\u590f",
-          "artist_name": "Mrs. GREEN APPLE",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/34/27/08/3427087f-2d39-4847-9b19-052dd3589014/18UMGIM36633.rgb.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/jp/album/%E9%9D%92%E3%81%A8%E5%A4%8F/1408505088?i=1408505264",
-          "youtube_video_id": "m34DPnRUfMU",
-          "youtube_search_query": "Mrs. GREEN APPLE \u9752\u3068\u590f official music video",
-          "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-          "created_at": "2026-07-27 22:17:41"
-        }
-      ]
     }
   },
   "regional": {
+    "2026-07-31": [
+      {
+        "id": 3154,
+        "date": "2026-07-31",
+        "region": "singapore",
+        "rank": 1,
+        "song_name": "hate that i made you love me",
+        "artist_name": "Ariana Grande",
+        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/600x600bb.jpg",
+        "apple_music_url": "https://music.apple.com/sg/album/hate-that-i-made-you-love-me/1895420989?i=6763656876",
+        "youtube_video_id": "82-jTNka3uc",
+        "youtube_search_query": "Ariana Grande hate that i made you love me official music video",
+        "genres": "Pop, Music",
+        "created_at": "2026-07-31 13:45:12"
+      },
+      {
+        "id": 3164,
+        "date": "2026-07-31",
+        "region": "spain",
+        "rank": 1,
+        "song_name": "LA GRACIOSA",
+        "artist_name": "Quevedo & Elvis Crespo",
+        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/600x600bb.jpg",
+        "apple_music_url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112",
+        "youtube_video_id": "LZPLBSRnxSY",
+        "youtube_search_query": "Quevedo & Elvis Crespo LA GRACIOSA official music video",
+        "genres": "M\u00fasica, M\u00fasica latina",
+        "created_at": "2026-07-31 13:45:36"
+      },
+      {
+        "id": 3174,
+        "date": "2026-07-31",
+        "region": "japan",
+        "rank": 1,
+        "song_name": "Brand New",
+        "artist_name": "Mrs. GREEN APPLE",
+        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/b6/41a0b6b9-a720-25e5-fc69-7e9c3ca1296e/26UMGIM73217.rgb.jpg/600x600bb.jpg",
+        "apple_music_url": "https://music.apple.com/jp/album/brand-new/6788211807?i=6788211810",
+        "youtube_video_id": "dePs7UPp6GQ",
+        "youtube_search_query": "Mrs. GREEN APPLE Brand New official music video",
+        "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+        "created_at": "2026-07-31 13:45:53"
+      }
+    ],
     "2026-07-30": [
       {
         "id": 3094,
@@ -637,37 +752,7 @@
         "created_at": "2026-07-30 03:31:32"
       }
     ],
-    "2026-07-29": [],
-    "2026-07-28": [
-      {
-        "id": 3054,
-        "date": "2026-07-28",
-        "region": "spain",
-        "rank": 1,
-        "song_name": "LA GRACIOSA",
-        "artist_name": "Quevedo & Elvis Crespo",
-        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/600x600bb.jpg",
-        "apple_music_url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112",
-        "youtube_video_id": "LZPLBSRnxSY",
-        "youtube_search_query": "Quevedo & Elvis Crespo LA GRACIOSA official music video",
-        "genres": "M\u00fasica, M\u00fasica latina",
-        "created_at": "2026-07-27 21:45:36"
-      },
-      {
-        "id": 3064,
-        "date": "2026-07-28",
-        "region": "japan",
-        "rank": 1,
-        "song_name": "Brand New",
-        "artist_name": "Mrs. GREEN APPLE",
-        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/b6/41a0b6b9-a720-25e5-fc69-7e9c3ca1296e/26UMGIM73217.rgb.jpg/600x600bb.jpg",
-        "apple_music_url": "https://music.apple.com/jp/album/brand-new/6788211807?i=6788211810",
-        "youtube_video_id": "UZ4an60Zmvc",
-        "youtube_search_query": "Mrs. GREEN APPLE Brand New official music video",
-        "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-        "created_at": "2026-07-27 22:01:32"
-      }
-    ]
+    "2026-07-29": []
   },
   "tutorials": [
     {
@@ -728,14 +813,14 @@
     }
   ],
   "stats": {
-    "total_days": 48,
-    "total_songs": 109,
+    "total_days": 49,
+    "total_songs": 111,
     "region_counts": {
       "global": 37,
-      "singapore": 33,
+      "singapore": 35,
       "spain": 22,
       "japan": 26
     }
   },
-  "updated": "2026-07-30 11:31 SGT"
+  "updated": "2026-07-31 21:46 SGT"
 }
