@@ -1,10 +1,229 @@
 {
   "dates": [
+    "2026-08-31",
     "2026-08-28",
-    "2026-08-27",
-    "2026-08-25"
+    "2026-08-27"
   ],
   "daily_data": {
+    "2026-08-31": {
+      "global": [
+        {
+          "id": 3724,
+          "date": "2026-08-31",
+          "region": "global",
+          "rank": 1,
+          "song_name": "Choosin' Texas",
+          "artist_name": "Ella Langley",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
+          "youtube_video_id": "nUsrYVxrDwI",
+          "youtube_search_query": "Ella Langley Choosin' Texas official music video",
+          "genres": "Country, Music",
+          "created_at": "2026-08-31 09:04:03"
+        },
+        {
+          "id": 3725,
+          "date": "2026-08-31",
+          "region": "global",
+          "rank": 2,
+          "song_name": "BbY WOW",
+          "artist_name": "KAROL G, Judeline & rusowsky",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
+          "youtube_video_id": "fRIhCiUVaKs",
+          "youtube_search_query": "KAROL G, Judeline & rusowsky BbY WOW official music video",
+          "genres": "Music, Latin",
+          "created_at": "2026-08-31 09:04:05"
+        },
+        {
+          "id": 3726,
+          "date": "2026-08-31",
+          "region": "global",
+          "rank": 3,
+          "song_name": "Mainstay (feat. Luv Von)",
+          "artist_name": "Rod Wave",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/67/4d/16674d50-a339-71bf-0aea-dc93b7dd8570/196874541357.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/us/album/mainstay-feat-luv-von/6781873059?i=6781873310",
+          "youtube_video_id": null,
+          "youtube_search_query": "Rod Wave Mainstay (feat. Luv Von) official music video",
+          "genres": "Music, Hip-Hop/Rap",
+          "created_at": "2026-08-31 09:19:23"
+        },
+        {
+          "id": 3727,
+          "date": "2026-08-31",
+          "region": "global",
+          "rank": 4,
+          "song_name": "I Am",
+          "artist_name": "Rod Wave",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/16/67/4d/16674d50-a339-71bf-0aea-dc93b7dd8570/196874541357.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/us/album/i-am/6781873059?i=6781873063",
+          "youtube_video_id": "Qe6T4dSnWhI",
+          "youtube_search_query": "Rod Wave I Am official music video",
+          "genres": "Music, Hip-Hop/Rap",
+          "created_at": "2026-08-31 09:19:26"
+        },
+        {
+          "id": 3728,
+          "date": "2026-08-31",
+          "region": "global",
+          "rank": 5,
+          "song_name": "Janice STFU",
+          "artist_name": "Drake",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+          "youtube_video_id": "SD4yRDY9mek",
+          "youtube_search_query": "Drake Janice STFU official music video",
+          "genres": "Hip-Hop/Rap, Music",
+          "created_at": "2026-08-31 09:19:36"
+        }
+      ],
+      "singapore": [],
+      "spain": [
+        {
+          "id": 3734,
+          "date": "2026-08-31",
+          "region": "spain",
+          "rank": 1,
+          "song_name": "BbY WOW",
+          "artist_name": "KAROL G, Judeline & rusowsky",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/es/album/bby-wow/6796864741?i=6796864754",
+          "youtube_video_id": null,
+          "youtube_search_query": "KAROL G, Judeline & rusowsky BbY WOW official music video",
+          "genres": "M\u00fasica, M\u00fasica latina",
+          "created_at": "2026-08-31 10:27:13"
+        },
+        {
+          "id": 3735,
+          "date": "2026-08-31",
+          "region": "spain",
+          "rank": 2,
+          "song_name": "LA GRACIOSA",
+          "artist_name": "Quevedo & Elvis Crespo",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112",
+          "youtube_video_id": "LZPLBSRnxSY",
+          "youtube_search_query": "Quevedo & Elvis Crespo LA GRACIOSA official music video",
+          "genres": "M\u00fasica, M\u00fasica latina",
+          "created_at": "2026-08-31 10:27:14"
+        },
+        {
+          "id": 3736,
+          "date": "2026-08-31",
+          "region": "spain",
+          "rank": 3,
+          "song_name": "SUPERESTRELLA",
+          "artist_name": "Aitana",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/es/album/superestrella/1814146266?i=1814146675",
+          "youtube_video_id": "vz_vU53JvvI",
+          "youtube_search_query": "Aitana SUPERESTRELLA official music video",
+          "genres": "M\u00fasica, M\u00fasica latina",
+          "created_at": "2026-08-31 10:27:16"
+        },
+        {
+          "id": 3737,
+          "date": "2026-08-31",
+          "region": "spain",
+          "rank": 4,
+          "song_name": "AL GOLPITO",
+          "artist_name": "Quevedo & Nueva L\u00ednea",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/es/album/al-golpito/1894271358?i=1894271858",
+          "youtube_video_id": "7cHRcVDPnR0",
+          "youtube_search_query": "Quevedo & Nueva L\u00ednea AL GOLPITO official music video",
+          "genres": "M\u00fasica, M\u00fasica latina",
+          "created_at": "2026-08-31 10:42:46"
+        },
+        {
+          "id": 3738,
+          "date": "2026-08-31",
+          "region": "spain",
+          "rank": 5,
+          "song_name": "pa ti toa <3",
+          "artist_name": "Ana Mena & Lola Indigo",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/fa/6f/9efa6fe0-5ce8-3f55-7ed6-24cda7d77505/196874447369.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/es/album/pa-ti-toa-3/6774634328?i=6774634329",
+          "youtube_video_id": "52cnhvRR6h4",
+          "youtube_search_query": "Ana Mena & Lola Indigo pa ti toa <3 official music video",
+          "genres": "Pop, M\u00fasica, M\u00fasica latina",
+          "created_at": "2026-08-31 10:42:49"
+        }
+      ],
+      "japan": [
+        {
+          "id": 3744,
+          "date": "2026-08-31",
+          "region": "japan",
+          "rank": 1,
+          "song_name": "Brand New",
+          "artist_name": "Mrs. GREEN APPLE",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/b6/41a0b6b9-a720-25e5-fc69-7e9c3ca1296e/26UMGIM73217.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/brand-new/6788211807?i=6788211810",
+          "youtube_video_id": "dePs7UPp6GQ",
+          "youtube_search_query": "Mrs. GREEN APPLE Brand New official music video",
+          "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-08-31 10:51:16"
+        },
+        {
+          "id": 3745,
+          "date": "2026-08-31",
+          "region": "japan",
+          "rank": 2,
+          "song_name": "Yes! \u6771\u4eac (feat. SUPER\u2605DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
+          "artist_name": "EBiDAN (\u6075\u6bd4\u5bff\u5b66\u5712\u7537\u5b50\u90e8), \u8d85\u7279\u6025, M!LK & \u539f\u56e0\u306f\u81ea\u5206\u306b\u3042\u308b\u3002",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/db/f8/a4dbf830-ec1e-e5af-723a-2ef5e4dac674/4580789774065.png/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/yes-%E6%9D%B1%E4%BA%AC-feat-super-dragon-sakurashimeji-one-n-only-buddiis/6782749976?i=6782749979",
+          "youtube_video_id": "KsHKaP50FBE",
+          "youtube_search_query": "EBiDAN (\u6075\u6bd4\u5bff\u5b66\u5712\u7537\u5b50\u90e8), \u8d85\u7279\u6025, M!LK & \u539f\u56e0\u306f\u81ea\u5206\u306b\u3042\u308b\u3002 Yes! \u6771\u4eac (feat. SUPER\u2605DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel) official music video",
+          "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-08-31 10:51:19"
+        },
+        {
+          "id": 3746,
+          "date": "2026-08-31",
+          "region": "japan",
+          "rank": 3,
+          "song_name": "\u30e9\u30a4\u30e9\u30c3\u30af",
+          "artist_name": "Mrs. GREEN APPLE",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF/1739088465?i=1739088799",
+          "youtube_video_id": "QjrkrVmC-8M",
+          "youtube_search_query": "Mrs. GREEN APPLE \u30e9\u30a4\u30e9\u30c3\u30af official music video",
+          "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-08-31 10:51:21"
+        },
+        {
+          "id": 3747,
+          "date": "2026-08-31",
+          "region": "japan",
+          "rank": 4,
+          "song_name": "\u597d\u304d\u3059\u304e\u3066\u6ec5!",
+          "artist_name": "M!LK",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%BB%85/1846753945?i=1846753946",
+          "youtube_video_id": "ZVUxJsPfoX8",
+          "youtube_search_query": "M!LK \u597d\u304d\u3059\u304e\u3066\u6ec5! official music video",
+          "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-08-31 10:51:25"
+        },
+        {
+          "id": 3748,
+          "date": "2026-08-31",
+          "region": "japan",
+          "rank": 5,
+          "song_name": "It's Me",
+          "artist_name": "ILLIT",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/76/26/cc76262a-dc2e-0746-ed85-070a56d23d40/26UMGIM46377.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/its-me/1894837142?i=1894837345",
+          "youtube_video_id": "bMhDJ0S0OBA",
+          "youtube_search_query": "ILLIT It's Me official music video",
+          "genres": "\u30dd\u30c3\u30d7, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-08-31 10:51:28"
+        }
+      ]
+    },
     "2026-08-28": {
       "global": [
         {
@@ -584,228 +803,39 @@
           "created_at": "2026-08-26 21:27:48"
         }
       ]
-    },
-    "2026-08-25": {
-      "global": [
-        {
-          "id": 3614,
-          "date": "2026-08-25",
-          "region": "global",
-          "rank": 1,
-          "song_name": "Choosin' Texas",
-          "artist_name": "Ella Langley",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
-          "youtube_video_id": "nUsrYVxrDwI",
-          "youtube_search_query": "Ella Langley Choosin' Texas official music video",
-          "genres": "Country, Music",
-          "created_at": "2026-08-24 21:05:50"
-        },
-        {
-          "id": 3615,
-          "date": "2026-08-25",
-          "region": "global",
-          "rank": 2,
-          "song_name": "Been By Now",
-          "artist_name": "Morgan Wallen",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
-          "youtube_video_id": "Lf0L35wQSaA",
-          "youtube_search_query": "Morgan Wallen Been By Now official music video",
-          "genres": "Country, Music",
-          "created_at": "2026-08-24 21:05:51"
-        },
-        {
-          "id": 3616,
-          "date": "2026-08-25",
-          "region": "global",
-          "rank": 3,
-          "song_name": "Janice STFU",
-          "artist_name": "Drake",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
-          "youtube_video_id": "SD4yRDY9mek",
-          "youtube_search_query": "Drake Janice STFU official music video",
-          "genres": "Hip-Hop/Rap, Music",
-          "created_at": "2026-08-24 21:05:52"
-        },
-        {
-          "id": 3617,
-          "date": "2026-08-25",
-          "region": "global",
-          "rank": 4,
-          "song_name": "Dead Fresh",
-          "artist_name": "Lil Baby",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133",
-          "youtube_video_id": "PXxbEfhtDiM",
-          "youtube_search_query": "Lil Baby Dead Fresh official music video",
-          "genres": "Hip-Hop/Rap, Music",
-          "created_at": "2026-08-24 21:05:53"
-        },
-        {
-          "id": 3618,
-          "date": "2026-08-25",
-          "region": "global",
-          "rank": 5,
-          "song_name": "Be Her",
-          "artist_name": "Ella Langley",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
-          "youtube_video_id": "Dg47eNL_Usw",
-          "youtube_search_query": "Ella Langley Be Her official music video",
-          "genres": "Country, Music",
-          "created_at": "2026-08-24 21:05:54"
-        }
-      ],
-      "singapore": [],
-      "spain": [
-        {
-          "id": 3624,
-          "date": "2026-08-25",
-          "region": "spain",
-          "rank": 1,
-          "song_name": "LA GRACIOSA",
-          "artist_name": "Quevedo & Elvis Crespo",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112",
-          "youtube_video_id": "LZPLBSRnxSY",
-          "youtube_search_query": "Quevedo & Elvis Crespo LA GRACIOSA official music video",
-          "genres": "M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-08-24 21:06:16"
-        },
-        {
-          "id": 3625,
-          "date": "2026-08-25",
-          "region": "spain",
-          "rank": 2,
-          "song_name": "BbY WOW",
-          "artist_name": "KAROL G, rusowsky & Judeline",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/es/album/bby-wow/6796864741?i=6796864754",
-          "youtube_video_id": "fRIhCiUVaKs",
-          "youtube_search_query": "KAROL G, rusowsky & Judeline BbY WOW official music video",
-          "genres": "M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-08-24 21:06:17"
-        },
-        {
-          "id": 3626,
-          "date": "2026-08-25",
-          "region": "spain",
-          "rank": 3,
-          "song_name": "SUPERESTRELLA",
-          "artist_name": "Aitana",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/43/08/06/430806b8-3b40-649f-37e9-37ff2ab702df/25UMGIM52016.rgb.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/es/album/superestrella/1814146266?i=1814146675",
-          "youtube_video_id": "vz_vU53JvvI",
-          "youtube_search_query": "Aitana SUPERESTRELLA official music video",
-          "genres": "M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-08-24 21:06:18"
-        },
-        {
-          "id": 3627,
-          "date": "2026-08-25",
-          "region": "spain",
-          "rank": 4,
-          "song_name": "AL GOLPITO",
-          "artist_name": "Quevedo & Nueva L\u00ednea",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/es/album/al-golpito/1894271358?i=1894271858",
-          "youtube_video_id": "7cHRcVDPnR0",
-          "youtube_search_query": "Quevedo & Nueva L\u00ednea AL GOLPITO official music video",
-          "genres": "M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-08-24 21:06:19"
-        },
-        {
-          "id": 3628,
-          "date": "2026-08-25",
-          "region": "spain",
-          "rank": 5,
-          "song_name": "pa ti toa <3",
-          "artist_name": "Ana Mena & Lola Indigo",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/9e/fa/6f/9efa6fe0-5ce8-3f55-7ed6-24cda7d77505/196874447369.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/es/album/pa-ti-toa-3/6774634328?i=6774634329",
-          "youtube_video_id": "52cnhvRR6h4",
-          "youtube_search_query": "Ana Mena & Lola Indigo pa ti toa <3 official music video",
-          "genres": "Pop, M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-08-24 21:06:20"
-        }
-      ],
-      "japan": [
-        {
-          "id": 3634,
-          "date": "2026-08-25",
-          "region": "japan",
-          "rank": 1,
-          "song_name": "Brand New",
-          "artist_name": "Mrs. GREEN APPLE",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/b6/41a0b6b9-a720-25e5-fc69-7e9c3ca1296e/26UMGIM73217.rgb.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/jp/album/brand-new/6788211807?i=6788211810",
-          "youtube_video_id": "dePs7UPp6GQ",
-          "youtube_search_query": "Mrs. GREEN APPLE Brand New official music video",
-          "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-          "created_at": "2026-08-24 21:06:28"
-        },
-        {
-          "id": 3635,
-          "date": "2026-08-25",
-          "region": "japan",
-          "rank": 2,
-          "song_name": "Yes! \u6771\u4eac (feat. SUPER\u2605DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
-          "artist_name": "EBiDAN (\u6075\u6bd4\u5bff\u5b66\u5712\u7537\u5b50\u90e8), \u8d85\u7279\u6025, M!LK & \u539f\u56e0\u306f\u81ea\u5206\u306b\u3042\u308b\u3002",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/db/f8/a4dbf830-ec1e-e5af-723a-2ef5e4dac674/4580789774065.png/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/jp/album/yes-%E6%9D%B1%E4%BA%AC-feat-super-dragon-sakurashimeji-one-n-only-buddiis/6782749976?i=6782749979",
-          "youtube_video_id": "KsHKaP50FBE",
-          "youtube_search_query": "EBiDAN (\u6075\u6bd4\u5bff\u5b66\u5712\u7537\u5b50\u90e8), \u8d85\u7279\u6025, M!LK & \u539f\u56e0\u306f\u81ea\u5206\u306b\u3042\u308b\u3002 Yes! \u6771\u4eac (feat. SUPER\u2605DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel) official music video",
-          "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-          "created_at": "2026-08-24 21:06:29"
-        },
-        {
-          "id": 3636,
-          "date": "2026-08-25",
-          "region": "japan",
-          "rank": 3,
-          "song_name": "\u30e9\u30a4\u30e9\u30c3\u30af",
-          "artist_name": "Mrs. GREEN APPLE",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/jp/album/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF/1739088465?i=1739088799",
-          "youtube_video_id": "QjrkrVmC-8M",
-          "youtube_search_query": "Mrs. GREEN APPLE \u30e9\u30a4\u30e9\u30c3\u30af official music video",
-          "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-          "created_at": "2026-08-24 21:06:30"
-        },
-        {
-          "id": 3637,
-          "date": "2026-08-25",
-          "region": "japan",
-          "rank": 4,
-          "song_name": "\u597d\u304d\u3059\u304e\u3066\u6ec5!",
-          "artist_name": "M!LK",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%BB%85/1846753945?i=1846753946",
-          "youtube_video_id": "ZVUxJsPfoX8",
-          "youtube_search_query": "M!LK \u597d\u304d\u3059\u304e\u3066\u6ec5! official music video",
-          "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-          "created_at": "2026-08-24 21:06:30"
-        },
-        {
-          "id": 3638,
-          "date": "2026-08-25",
-          "region": "japan",
-          "rank": 5,
-          "song_name": "It's Me",
-          "artist_name": "ILLIT",
-          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/76/26/cc76262a-dc2e-0746-ed85-070a56d23d40/26UMGIM46377.rgb.jpg/600x600bb.jpg",
-          "apple_music_url": "https://music.apple.com/jp/album/its-me/1894837142?i=1894837345",
-          "youtube_video_id": "bMhDJ0S0OBA",
-          "youtube_search_query": "ILLIT It's Me official music video",
-          "genres": "\u30dd\u30c3\u30d7, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-          "created_at": "2026-08-24 21:24:27"
-        }
-      ]
     }
   },
   "regional": {
+    "2026-08-31": [
+      {
+        "id": 3734,
+        "date": "2026-08-31",
+        "region": "spain",
+        "rank": 1,
+        "song_name": "BbY WOW",
+        "artist_name": "KAROL G, Judeline & rusowsky",
+        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/600x600bb.jpg",
+        "apple_music_url": "https://music.apple.com/es/album/bby-wow/6796864741?i=6796864754",
+        "youtube_video_id": null,
+        "youtube_search_query": "KAROL G, Judeline & rusowsky BbY WOW official music video",
+        "genres": "M\u00fasica, M\u00fasica latina",
+        "created_at": "2026-08-31 10:27:13"
+      },
+      {
+        "id": 3744,
+        "date": "2026-08-31",
+        "region": "japan",
+        "rank": 1,
+        "song_name": "Brand New",
+        "artist_name": "Mrs. GREEN APPLE",
+        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/b6/41a0b6b9-a720-25e5-fc69-7e9c3ca1296e/26UMGIM73217.rgb.jpg/600x600bb.jpg",
+        "apple_music_url": "https://music.apple.com/jp/album/brand-new/6788211807?i=6788211810",
+        "youtube_video_id": "dePs7UPp6GQ",
+        "youtube_search_query": "Mrs. GREEN APPLE Brand New official music video",
+        "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+        "created_at": "2026-08-31 10:51:16"
+      }
+    ],
     "2026-08-28": [
       {
         "id": 3694,
@@ -893,36 +923,6 @@
         "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
         "created_at": "2026-08-26 21:27:44"
       }
-    ],
-    "2026-08-25": [
-      {
-        "id": 3624,
-        "date": "2026-08-25",
-        "region": "spain",
-        "rank": 1,
-        "song_name": "LA GRACIOSA",
-        "artist_name": "Quevedo & Elvis Crespo",
-        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/56/e5/bf/56e5bfea-2071-1224-1c62-f6119195a949/8718521173821.jpg/600x600bb.jpg",
-        "apple_music_url": "https://music.apple.com/es/album/la-graciosa/1894271358?i=1894272112",
-        "youtube_video_id": "LZPLBSRnxSY",
-        "youtube_search_query": "Quevedo & Elvis Crespo LA GRACIOSA official music video",
-        "genres": "M\u00fasica, M\u00fasica latina",
-        "created_at": "2026-08-24 21:06:16"
-      },
-      {
-        "id": 3634,
-        "date": "2026-08-25",
-        "region": "japan",
-        "rank": 1,
-        "song_name": "Brand New",
-        "artist_name": "Mrs. GREEN APPLE",
-        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/b6/41a0b6b9-a720-25e5-fc69-7e9c3ca1296e/26UMGIM73217.rgb.jpg/600x600bb.jpg",
-        "apple_music_url": "https://music.apple.com/jp/album/brand-new/6788211807?i=6788211810",
-        "youtube_video_id": "dePs7UPp6GQ",
-        "youtube_search_query": "Mrs. GREEN APPLE Brand New official music video",
-        "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
-        "created_at": "2026-08-24 21:06:28"
-      }
     ]
   },
   "tutorials": [
@@ -984,14 +984,14 @@
     }
   ],
   "stats": {
-    "total_days": 65,
-    "total_songs": 142,
+    "total_days": 66,
+    "total_songs": 146,
     "region_counts": {
-      "global": 54,
+      "global": 58,
       "singapore": 50,
       "spain": 24,
       "japan": 29
     }
   },
-  "updated": "2026-08-28 17:26 SGT"
+  "updated": "2026-08-31 18:53 SGT"
 }
