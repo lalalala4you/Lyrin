@@ -8,7 +8,7 @@
     "2026-09-09": {
       "global": [
         {
-          "id": 3934,
+          "id": 3964,
           "date": "2026-09-09",
           "region": "global",
           "rank": 1,
@@ -19,10 +19,10 @@
           "youtube_video_id": "fRIhCiUVaKs",
           "youtube_search_query": "KAROL G, rusowsky & Judeline BbY WOW official music video",
           "genres": "Music, Latin",
-          "created_at": "2026-09-09 08:20:09"
+          "created_at": "2026-09-09 08:21:55"
         },
         {
-          "id": 3935,
+          "id": 3965,
           "date": "2026-09-09",
           "region": "global",
           "rank": 2,
@@ -33,10 +33,10 @@
           "youtube_video_id": "nUsrYVxrDwI",
           "youtube_search_query": "Ella Langley Choosin' Texas official music video",
           "genres": "Country, Music",
-          "created_at": "2026-09-09 08:20:11"
+          "created_at": "2026-09-09 08:21:57"
         },
         {
-          "id": 3936,
+          "id": 3966,
           "date": "2026-09-09",
           "region": "global",
           "rank": 3,
@@ -47,10 +47,10 @@
           "youtube_video_id": "SD4yRDY9mek",
           "youtube_search_query": "Drake Janice STFU official music video",
           "genres": "Hip-Hop/Rap, Music",
-          "created_at": "2026-09-09 08:20:12"
+          "created_at": "2026-09-09 08:21:58"
         },
         {
-          "id": 3937,
+          "id": 3967,
           "date": "2026-09-09",
           "region": "global",
           "rank": 4,
@@ -61,10 +61,10 @@
           "youtube_video_id": "Gagb8DR6_24",
           "youtube_search_query": "Morgan Wallen Been By Now official music video",
           "genres": "Country, Music",
-          "created_at": "2026-09-09 08:20:13"
+          "created_at": "2026-09-09 08:21:59"
         },
         {
-          "id": 3938,
+          "id": 3968,
           "date": "2026-09-09",
           "region": "global",
           "rank": 5,
@@ -75,12 +75,12 @@
           "youtube_video_id": "PXxbEfhtDiM",
           "youtube_search_query": "Lil Baby Dead Fresh official music video",
           "genres": "Hip-Hop/Rap, Music",
-          "created_at": "2026-09-09 08:20:15"
+          "created_at": "2026-09-09 08:22:00"
         }
       ],
       "singapore": [
         {
-          "id": 3944,
+          "id": 3974,
           "date": "2026-09-09",
           "region": "singapore",
           "rank": 1,
@@ -88,13 +88,13 @@
           "artist_name": "Ariana Grande",
           "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/600x600bb.jpg",
           "apple_music_url": "https://music.apple.com/sg/album/hate-that-i-made-you-love-me/1895420989?i=6763656876",
-          "youtube_video_id": "82-jTNka3uc",
+          "youtube_video_id": "BusYLBiIHKM",
           "youtube_search_query": "Ariana Grande hate that i made you love me official music video",
           "genres": "Pop, Music",
-          "created_at": "2026-09-09 08:20:23"
+          "created_at": "2026-09-09 08:22:10"
         },
         {
-          "id": 3945,
+          "id": 3975,
           "date": "2026-09-09",
           "region": "singapore",
           "rank": 2,
@@ -105,10 +105,10 @@
           "youtube_video_id": "0ijm2Xui5N8",
           "youtube_search_query": "AD\u00c9LA Ain't In LA official music video",
           "genres": "Pop, Music",
-          "created_at": "2026-09-09 08:20:24"
+          "created_at": "2026-09-09 08:22:11"
         },
         {
-          "id": 3946,
+          "id": 3976,
           "date": "2026-09-09",
           "region": "singapore",
           "rank": 3,
@@ -119,10 +119,10 @@
           "youtube_video_id": "Rt9tW3cMLhI",
           "youtube_search_query": "Olivia Rodrigo stupid song official music video",
           "genres": "Pop, Music",
-          "created_at": "2026-09-09 08:20:26"
+          "created_at": "2026-09-09 08:22:12"
         },
         {
-          "id": 3947,
+          "id": 3977,
           "date": "2026-09-09",
           "region": "singapore",
           "rank": 4,
@@ -133,10 +133,10 @@
           "youtube_video_id": "FyS5dAywkEo",
           "youtube_search_query": "LISA SaWaDiKa official music video",
           "genres": "Pop, Music",
-          "created_at": "2026-09-09 08:20:27"
+          "created_at": "2026-09-09 08:22:13"
         },
         {
-          "id": 3948,
+          "id": 3978,
           "date": "2026-09-09",
           "region": "singapore",
           "rank": 5,
@@ -147,12 +147,12 @@
           "youtube_video_id": "MS9Tzsq-JfM",
           "youtube_search_query": "Jess Lee \u7532\u4e59\u4e19\u4e01Strangers official music video",
           "genres": "Music, Pop",
-          "created_at": "2026-09-09 08:20:28"
+          "created_at": "2026-09-09 08:22:14"
         }
       ],
       "spain": [
         {
-          "id": 3954,
+          "id": 3984,
           "date": "2026-09-09",
           "region": "spain",
           "rank": 1,
@@ -160,13 +160,13 @@
           "artist_name": "KAROL G, rusowsky & Judeline",
           "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/600x600bb.jpg",
           "apple_music_url": "https://music.apple.com/es/album/bby-wow/6796864741?i=6796864754",
-          "youtube_video_id": "fRIhCiUVaKs",
+          "youtube_video_id": "xo5v_YEqBXU",
           "youtube_search_query": "KAROL G, rusowsky & Judeline BbY WOW official music video",
           "genres": "M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-09-09 08:20:36"
+          "created_at": "2026-09-09 08:22:25"
         },
         {
-          "id": 3955,
+          "id": 3985,
           "date": "2026-09-09",
           "region": "spain",
           "rank": 2,
@@ -177,10 +177,10 @@
           "youtube_video_id": "LZPLBSRnxSY",
           "youtube_search_query": "Quevedo & Elvis Crespo LA GRACIOSA official music video",
           "genres": "M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-09-09 08:20:37"
+          "created_at": "2026-09-09 08:22:26"
         },
         {
-          "id": 3956,
+          "id": 3986,
           "date": "2026-09-09",
           "region": "spain",
           "rank": 3,
@@ -191,10 +191,10 @@
           "youtube_video_id": "vz_vU53JvvI",
           "youtube_search_query": "Aitana SUPERESTRELLA official music video",
           "genres": "M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-09-09 08:20:38"
+          "created_at": "2026-09-09 08:22:27"
         },
         {
-          "id": 3957,
+          "id": 3987,
           "date": "2026-09-09",
           "region": "spain",
           "rank": 4,
@@ -205,10 +205,10 @@
           "youtube_video_id": "7cHRcVDPnR0",
           "youtube_search_query": "Quevedo & Nueva L\u00ednea AL GOLPITO official music video",
           "genres": "M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-09-09 08:20:39"
+          "created_at": "2026-09-09 08:22:28"
         },
         {
-          "id": 3958,
+          "id": 3988,
           "date": "2026-09-09",
           "region": "spain",
           "rank": 5,
@@ -219,10 +219,81 @@
           "youtube_video_id": "52cnhvRR6h4",
           "youtube_search_query": "Ana Mena & Lola Indigo pa ti toa <3 official music video",
           "genres": "Pop, M\u00fasica, M\u00fasica latina",
-          "created_at": "2026-09-09 08:20:41"
+          "created_at": "2026-09-09 08:22:29"
         }
       ],
-      "japan": []
+      "japan": [
+        {
+          "id": 3994,
+          "date": "2026-09-09",
+          "region": "japan",
+          "rank": 1,
+          "song_name": "Yes! \u6771\u4eac (feat. SUPER\u2605DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
+          "artist_name": "EBiDAN (\u6075\u6bd4\u5bff\u5b66\u5712\u7537\u5b50\u90e8), \u8d85\u7279\u6025, M!LK & \u539f\u56e0\u306f\u81ea\u5206\u306b\u3042\u308b\u3002",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/db/f8/a4dbf830-ec1e-e5af-723a-2ef5e4dac674/4580789774065.png/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/yes-%E6%9D%B1%E4%BA%AC-feat-super-dragon-sakurashimeji-one-n-only-buddiis/6782749976?i=6782749979",
+          "youtube_video_id": "KsHKaP50FBE",
+          "youtube_search_query": "EBiDAN (\u6075\u6bd4\u5bff\u5b66\u5712\u7537\u5b50\u90e8), \u8d85\u7279\u6025, M!LK & \u539f\u56e0\u306f\u81ea\u5206\u306b\u3042\u308b\u3002 Yes! \u6771\u4eac (feat. SUPER\u2605DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel) official music video",
+          "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-09-09 08:22:37"
+        },
+        {
+          "id": 3995,
+          "date": "2026-09-09",
+          "region": "japan",
+          "rank": 2,
+          "song_name": "Brand New",
+          "artist_name": "Mrs. GREEN APPLE",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/a0/b6/41a0b6b9-a720-25e5-fc69-7e9c3ca1296e/26UMGIM73217.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/brand-new/6788211807?i=6788211810",
+          "youtube_video_id": "dePs7UPp6GQ",
+          "youtube_search_query": "Mrs. GREEN APPLE Brand New official music video",
+          "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-09-09 08:22:38"
+        },
+        {
+          "id": 3996,
+          "date": "2026-09-09",
+          "region": "japan",
+          "rank": 3,
+          "song_name": "\u30e9\u30a4\u30e9\u30c3\u30af",
+          "artist_name": "Mrs. GREEN APPLE",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/3b/b2/4c3bb247-3be8-0c57-aa9a-7f1775a7b7a8/24UMGIM32931.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/%E3%83%A9%E3%82%A4%E3%83%A9%E3%83%83%E3%82%AF/1739088465?i=1739088799",
+          "youtube_video_id": "QjrkrVmC-8M",
+          "youtube_search_query": "Mrs. GREEN APPLE \u30e9\u30a4\u30e9\u30c3\u30af official music video",
+          "genres": "\u30ed\u30c3\u30af, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-09-09 08:22:39"
+        },
+        {
+          "id": 3997,
+          "date": "2026-09-09",
+          "region": "japan",
+          "rank": 4,
+          "song_name": "\u597d\u304d\u3059\u304e\u3066\u6ec5!",
+          "artist_name": "M!LK",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%BB%85/1846753945?i=1846753946",
+          "youtube_video_id": "ZVUxJsPfoX8",
+          "youtube_search_query": "M!LK \u597d\u304d\u3059\u304e\u3066\u6ec5! official music video",
+          "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-09-09 08:22:41"
+        },
+        {
+          "id": 3998,
+          "date": "2026-09-09",
+          "region": "japan",
+          "rank": 5,
+          "song_name": "It's Me",
+          "artist_name": "ILLIT",
+          "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/76/26/cc76262a-dc2e-0746-ed85-070a56d23d40/26UMGIM46377.rgb.jpg/600x600bb.jpg",
+          "apple_music_url": "https://music.apple.com/jp/album/its-me/1894837142?i=1894837345",
+          "youtube_video_id": "bMhDJ0S0OBA",
+          "youtube_search_query": "ILLIT It's Me official music video",
+          "genres": "\u30dd\u30c3\u30d7, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+          "created_at": "2026-09-09 08:22:42"
+        }
+      ]
     },
     "2026-09-08": {
       "global": [
@@ -737,7 +808,7 @@
   "regional": {
     "2026-09-09": [
       {
-        "id": 3944,
+        "id": 3974,
         "date": "2026-09-09",
         "region": "singapore",
         "rank": 1,
@@ -745,13 +816,13 @@
         "artist_name": "Ariana Grande",
         "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7e/e6/82/7ee682bd-1b17-6adc-be63-b5af1bdff369/26UMGIM51126.rgb.jpg/600x600bb.jpg",
         "apple_music_url": "https://music.apple.com/sg/album/hate-that-i-made-you-love-me/1895420989?i=6763656876",
-        "youtube_video_id": "82-jTNka3uc",
+        "youtube_video_id": "BusYLBiIHKM",
         "youtube_search_query": "Ariana Grande hate that i made you love me official music video",
         "genres": "Pop, Music",
-        "created_at": "2026-09-09 08:20:23"
+        "created_at": "2026-09-09 08:22:10"
       },
       {
-        "id": 3954,
+        "id": 3984,
         "date": "2026-09-09",
         "region": "spain",
         "rank": 1,
@@ -759,10 +830,24 @@
         "artist_name": "KAROL G, rusowsky & Judeline",
         "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/600x600bb.jpg",
         "apple_music_url": "https://music.apple.com/es/album/bby-wow/6796864741?i=6796864754",
-        "youtube_video_id": "fRIhCiUVaKs",
+        "youtube_video_id": "xo5v_YEqBXU",
         "youtube_search_query": "KAROL G, rusowsky & Judeline BbY WOW official music video",
         "genres": "M\u00fasica, M\u00fasica latina",
-        "created_at": "2026-09-09 08:20:36"
+        "created_at": "2026-09-09 08:22:25"
+      },
+      {
+        "id": 3994,
+        "date": "2026-09-09",
+        "region": "japan",
+        "rank": 1,
+        "song_name": "Yes! \u6771\u4eac (feat. SUPER\u2605DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
+        "artist_name": "EBiDAN (\u6075\u6bd4\u5bff\u5b66\u5712\u7537\u5b50\u90e8), \u8d85\u7279\u6025, M!LK & \u539f\u56e0\u306f\u81ea\u5206\u306b\u3042\u308b\u3002",
+        "album_art_url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/db/f8/a4dbf830-ec1e-e5af-723a-2ef5e4dac674/4580789774065.png/600x600bb.jpg",
+        "apple_music_url": "https://music.apple.com/jp/album/yes-%E6%9D%B1%E4%BA%AC-feat-super-dragon-sakurashimeji-one-n-only-buddiis/6782749976?i=6782749979",
+        "youtube_video_id": "KsHKaP50FBE",
+        "youtube_search_query": "EBiDAN (\u6075\u6bd4\u5bff\u5b66\u5712\u7537\u5b50\u90e8), \u8d85\u7279\u6025, M!LK & \u539f\u56e0\u306f\u81ea\u5206\u306b\u3042\u308b\u3002 Yes! \u6771\u4eac (feat. SUPER\u2605DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel) official music video",
+        "genres": "J-Pop, \u30df\u30e5\u30fc\u30b8\u30c3\u30af",
+        "created_at": "2026-09-09 08:22:37"
       }
     ],
     "2026-09-08": [
@@ -914,13 +999,13 @@
   ],
   "stats": {
     "total_days": 73,
-    "total_songs": 151,
+    "total_songs": 152,
     "region_counts": {
       "global": 60,
       "singapore": 52,
       "spain": 25,
-      "japan": 29
+      "japan": 30
     }
   },
-  "updated": "2026-09-09 16:21 SGT"
+  "updated": "2026-09-09 16:22 SGT"
 }
